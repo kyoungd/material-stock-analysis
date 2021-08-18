@@ -1,0 +1,19 @@
+{
+    "version": 1,
+    "author": "00001",
+    "name": "volume_movement",
+    "root": [
+        {
+            "timeframes": ["1min", "5min", "10min", "30min", "1hour"],
+            "volume_min": 2000000,
+            "volume_high": 10000000,
+            "volume_delta": 5
+        },
+        {
+            "timeframes": ["4hour", "daily", "weekly"],
+            "volume_min": 5000000,
+            "volume_high": 20000000,
+            "volume_delta": 10
+        },
+    ]
+}

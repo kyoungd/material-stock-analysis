@@ -1,0 +1,97 @@
+{
+    "steps": [
+        {
+            "step": 1,
+            "type": "filter",
+            "name": "filter_price_movmenet",
+            "parameters": {
+                "file": "filter_price_movement_00001"
+            }
+        },
+        {
+            "step": 2,
+            "type": "filter",
+            "name": "filter_volume_movement",
+            "parameters": {
+                "file" : "filter_volume_movement_00001"
+            }
+        },
+        {
+            "step": 3,
+            "type": "filter",
+            "name": "filter_ema",
+            "parameters": {
+                "data": {
+                    "ticks": 200,
+                    "filter": "above"
+                }
+            }
+        },
+        {
+            "step": 4,
+            "type": "filter",
+            "name": "filter_sma",
+            "parameters": {
+                "data": {
+                    "ticks": 200,
+                    "filter": "above"
+                }
+            }
+        },
+        {
+            "step": 5,
+            "type": "filter",
+            "name": "filter_three_bars",
+            "parameters": { }
+        },
+        {
+            "step": 6,
+            "type": "score",
+            "name": "score_dynamic_support",
+            "parameters": {}
+        },
+        {
+            "step": 7,
+            "type": "score",
+            "name": "score_static_support",
+            "parameters": { }
+        },
+        {
+            "step": 8,
+            "type": "score",
+            "name": "score_high_low_day",
+            "parameters": { }
+        },
+        {
+            "step": 9,
+            "type": "score",
+            "name": "score_breakout",
+            "parameters": {}
+        },
+        {
+            "step": 10,
+            "type": "score",
+            "name": "score_company",
+            "parameters": {
+                "short_float": {
+                    "low": 10000000,
+                    "high": 190000000,
+                    "low_score": 10,
+                    "high_score": 50
+                },
+                "share_float": {
+                    "low": 5,
+                    "high": 30,
+                    "low_score": 10,
+                    "high_score": 50
+                }
+            }
+        },
+        {
+            "step": 11,
+            "type": "score",
+            "name": "score_level2",
+            "parameters": {}
+        }
+    ]
+}

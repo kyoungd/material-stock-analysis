@@ -1,0 +1,7824 @@
+quote Quote({   'ask_exchange': 'P',
+    'ask_price': 145.85,
+    'ask_size': 49,
+    'bid_exchange': 'P',
+    'bid_price': 145.84,
+    'bid_size': 3,
+    'conditions': ['R'],
+    'symbol': 'AAPL',
+    'tape': 'C',
+    'timestamp': 1627681472025939968})
+quote Quote({   'ask_exchange': 'P',
+    'ask_price': 5.85,
+    'ask_size': 25,
+    'bid_exchange': 'Q',
+    'bid_price': 5.81,
+    'bid_size': 1,
+    'conditions': ['R'],
+    'symbol': 'ERYP',
+    'tape': 'C',
+    'timestamp': 1627681499976069959})
+
+quote Quote({   'ask_exchange': 'P',
+    'ask_price': 5.85,
+    'ask_size': 27,
+    'bid_exchange': 'Q',
+    'bid_price': 5.81,
+    'bid_size': 1,
+    'conditions': ['R'],
+    'symbol': 'ERYP',
+    'tape': 'C',
+    'timestamp': 1627681504085152000})
+quote Quote({   'ask_exchange': 'P',
+    'ask_price': 5.85,
+    'ask_size': 2,
+    'bid_exchange': 'Q',
+    'bid_price': 5.81,
+    'bid_size': 1,
+    'conditions': ['R'],
+    'symbol': 'ERYP',
+    'tape': 'C',
+    'timestamp': 1627681520007448320})
+quote Quote({   'ask_exchange': 'P',
+    'ask_price': 2710.0,
+    'ask_size': 1,
+    'bid_exchange': 'Y',
+    'bid_price': 2697.01,
+    'bid_size': 1,
+    'conditions': ['R'],
+    'symbol': 'GOOG',
+    'tape': 'C',
+    'timestamp': 1627681538341581056})
+quote Quote({   'ask_exchange': 'P',
+    'ask_price': 145.89,
+    'ask_size': 11,
+    'bid_exchange': 'P',
+    'bid_price': 145.84,
+    'bid_size': 4,
+    'conditions': ['R'],
+    'symbol': 'AAPL',
+    'tape': 'C',
+    'timestamp': 1627681547721133056})
+quote Quote({   'ask_exchange': 'P',
+    'ask_price': 145.89,
+    'ask_size': 11,
+    'bid_exchange': 'P',
+    'bid_price': 145.84,
+    'bid_size': 3,
+    'conditions': ['R'],
+    'symbol': 'AAPL',
+    'tape': 'C',
+    'timestamp': 1627681554562641152})
+quote Quote({   'ask_exchange': 'P',
+    'ask_price': 5.85,
+    'ask_size': 2,
+    'bid_exchange': 'P',
+    'bid_price': 5.81,
+    'bid_size': 1,
+    'conditions': ['R'],
+    'symbol': 'ERYP',
+    'tape': 'C',
+    'timestamp': 1627681555608963949})
+quote Quote({   'ask_exchange': 'P',
+    'ask_price': 5.85,
+    'ask_size': 2,
+    'bid_exchange': 'P',
+    'bid_price': 5.8,
+    'bid_size': 13,
+    'conditions': ['R'],
+    'symbol': 'ERYP',
+    'tape': 'C',
+    'timestamp': 1627681555608985600})
+
+quote Quote({   'ask_exchange': 'P',
+    'ask_price': 5.81,
+    'ask_size': 7,
+    'bid_exchange': 'P',
+    'bid_price': 5.8,
+    'bid_size': 13,
+    'conditions': ['R'],
+    'symbol': 'ERYP',
+    'tape': 'C',
+    'timestamp': 1627681560613816576})
+quote Quote({   'ask_exchange': 'P',
+    'ask_price': 5.81,
+    'ask_size': 3,
+    'bid_exchange': 'P',
+    'bid_price': 5.8,
+    'bid_size': 13,
+    'conditions': ['R'],
+    'symbol': 'ERYP',
+    'tape': 'C',
+    'timestamp': 1627681561860663552})
+quote Quote({   'ask_exchange': 'Y',
+    'ask_price': 2709.99,
+    'ask_size': 1,
+    'bid_exchange': 'Y',
+    'bid_price': 2697.01,
+    'bid_size': 1,
+    'conditions': ['R'],
+    'symbol': 'GOOG',
+    'tape': 'C',
+    'timestamp': 1627681564418177000})
+quote Quote({   'ask_exchange': 'P',
+    'ask_price': 5.81,
+    'ask_size': 2,
+    'bid_exchange': 'P',
+    'bid_price': 5.8,
+    'bid_size': 13,
+    'conditions': ['R'],
+    'symbol': 'ERYP',
+    'tape': 'C',
+    'timestamp': 1627681569087480576})
+quote Quote({   'ask_exchange': 'P',
+    'ask_price': 145.89,
+    'ask_size': 11,
+    'bid_exchange': 'P',
+    'bid_price': 145.84,
+    'bid_size': 1,
+    'conditions': ['R'],
+    'symbol': 'AAPL',
+    'tape': 'C',
+    'timestamp': 1627681570520700672})
+quote Quote({   'ask_exchange': 'P',
+    'ask_price': 5.81,
+    'ask_size': 5,
+    'bid_exchange': 'P',
+    'bid_price': 5.8,
+    'bid_size': 13,
+    'conditions': ['R'],
+    'symbol': 'ERYP',
+    'tape': 'C',
+    'timestamp': 1627681579746388736})
+quote Quote({   'ask_exchange': 'P',
+    'ask_price': 145.86,
+    'ask_size': 1,
+    'bid_exchange': 'P',
+    'bid_price': 145.84,
+    'bid_size': 1,
+    'conditions': ['R'],
+    'symbol': 'AAPL',
+    'tape': 'C',
+    'timestamp': 1627681612011598336})
+quote Quote({   'ask_exchange': 'P',
+    'ask_price': 145.86,
+    'ask_size': 1,
+    'bid_exchange': 'P',
+    'bid_price': 145.85,
+    'bid_size': 1,
+    'conditions': ['R'],
+    'symbol': 'AAPL',
+    'tape': 'C',
+    'timestamp': 1627681619966918912})
+
+quote Quote({   'ask_exchange': 'P',
+    'ask_price': 5.81,
+    'ask_size': 5,
+    'bid_exchange': 'P',
+    'bid_price': 5.8,
+    'bid_size': 18,
+    'conditions': ['R'],
+    'symbol': 'ERYP',
+    'tape': 'C',
+    'timestamp': 1627681642728249344})
+quote Quote({   'ask_exchange': 'P',
+    'ask_price': 5.81,
+    'ask_size': 5,
+    'bid_exchange': 'P',
+    'bid_price': 5.8,
+    'bid_size': 28,
+    'conditions': ['R'],
+    'symbol': 'ERYP',
+    'tape': 'C',
+    'timestamp': 1627681645725303552})
+quote Quote({   'ask_exchange': 'P',
+    'ask_price': 5.81,
+    'ask_size': 4,
+    'bid_exchange': 'P',
+    'bid_price': 5.8,
+    'bid_size': 28,
+    'conditions': ['R'],
+    'symbol': 'ERYP',
+    'tape': 'C',
+    'timestamp': 1627681649991368192})
+quote Quote({   'ask_exchange': 'P',
+    'ask_price': 5.81,
+    'ask_size': 3,
+    'bid_exchange': 'P',
+    'bid_price': 5.8,
+    'bid_size': 28,
+    'conditions': ['R'],
+    'symbol': 'ERYP',
+    'tape': 'C',
+    'timestamp': 1627681658036419072})
+quote Quote({   'ask_exchange': 'P',
+    'ask_price': 145.87,
+    'ask_size': 1,
+    'bid_exchange': 'P',
+    'bid_price': 145.85,
+    'bid_size': 1,
+    'conditions': ['R'],
+    'symbol': 'AAPL',
+    'tape': 'C',
+    'timestamp': 1627681662075380736})
+
+quote Quote({   'ask_exchange': 'P',
+    'ask_price': 5.81,
+    'ask_size': 3,
+    'bid_exchange': 'P',
+    'bid_price': 5.8,
+    'bid_size': 38,
+    'conditions': ['R'],
+    'symbol': 'ERYP',
+    'tape': 'C',
+    'timestamp': 1627681693027761408})
+quote Quote({   'ask_exchange': 'P',
+    'ask_price': 5.81,
+    'ask_size': 3,
+    'bid_exchange': 'P',
+    'bid_price': 5.8,
+    'bid_size': 28,
+    'conditions': ['R'],
+    'symbol': 'ERYP',
+    'tape': 'C',
+    'timestamp': 1627681704305186304})
+quote Quote({   'ask_exchange': 'P',
+    'ask_price': 5.82,
+    'ask_size': 5,
+    'bid_exchange': 'P',
+    'bid_price': 5.8,
+    'bid_size': 28,
+    'conditions': ['R'],
+    'symbol': 'ERYP',
+    'tape': 'C',
+    'timestamp': 1627681704308009216})
+quote Quote({   'ask_exchange': 'P',
+    'ask_price': 5.82,
+    'ask_size': 5,
+    'bid_exchange': 'P',
+    'bid_price': 5.81,
+    'bid_size': 6,
+    'conditions': ['R'],
+    'symbol': 'ERYP',
+    'tape': 'C',
+    'timestamp': 1627681709311867648})
+quote Quote({   'ask_exchange': 'P',
+    'ask_price': 5.82,
+    'ask_size': 5,
+    'bid_exchange': 'P',
+    'bid_price': 5.81,
+    'bid_size': 7,
+    'conditions': ['R'],
+    'symbol': 'ERYP',
+    'tape': 'C',
+    'timestamp': 1627681727040767744})
+quote Quote({   'ask_exchange': 'P',
+    'ask_price': 5.82,
+    'ask_size': 5,
+    'bid_exchange': 'P',
+    'bid_price': 5.8,
+    'bid_size': 28,
+    'conditions': ['R'],
+    'symbol': 'ERYP',
+    'tape': 'C',
+    'timestamp': 1627681730051746816})
+quote Quote({   'ask_exchange': 'P',
+    'ask_price': 5.82,
+    'ask_size': 5,
+    'bid_exchange': 'P',
+    'bid_price': 5.8,
+    'bid_size': 26,
+    'conditions': ['R'],
+    'symbol': 'ERYP',
+    'tape': 'C',
+    'timestamp': 1627681730056196096})
+quote Quote({   'ask_exchange': 'P',
+    'ask_price': 5.81,
+    'ask_size': 14,
+    'bid_exchange': 'P',
+    'bid_price': 5.8,
+    'bid_size': 26,
+    'conditions': ['R'],
+    'symbol': 'ERYP',
+    'tape': 'C',
+    'timestamp': 1627681730566840576})
+quote Quote({   'ask_exchange': 'P',
+    'ask_price': 5.81,
+    'ask_size': 15,
+    'bid_exchange': 'P',
+    'bid_price': 5.8,
+    'bid_size': 26,
+    'conditions': ['R'],
+    'symbol': 'ERYP',
+    'tape': 'C',
+    'timestamp': 1627681735069243648})
+quote Quote({   'ask_exchange': 'P',
+    'ask_price': 145.89,
+    'ask_size': 11,
+    'bid_exchange': 'P',
+    'bid_price': 145.85,
+    'bid_size': 1,
+    'conditions': ['R'],
+    'symbol': 'AAPL',
+    'tape': 'C',
+    'timestamp': 1627681737075941632})
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+quote Quote({   'ask_exchange': 'P',
+    'ask_price': 5.81,
+    'ask_size': 14,
+    'bid_exchange': 'P',
+    'bid_price': 5.8,
+    'bid_size': 26,
+    'conditions': ['R'],
+    'symbol': 'ERYP',
+    'tape': 'C',
+    'timestamp': 1627681740661156096})
+quote Quote({   'ask_exchange': 'P',
+    'ask_price': 145.89,
+    'ask_size': 10,
+    'bid_exchange': 'P',
+    'bid_price': 145.85,
+    'bid_size': 1,
+    'conditions': ['R'],
+    'symbol': 'AAPL',
+    'tape': 'C',
+    'timestamp': 1627681750847457536})
+quote Quote({   'ask_exchange': 'P',
+    'ask_price': 145.89,
+    'ask_size': 10,
+    'bid_exchange': 'P',
+    'bid_price': 145.86,
+    'bid_size': 3,
+    'conditions': ['R'],
+    'symbol': 'AAPL',
+    'tape': 'C',
+    'timestamp': 1627681750850511616})
+quote Quote({   'ask_exchange': 'P',
+    'ask_price': 5.81,
+    'ask_size': 17,
+    'bid_exchange': 'P',
+    'bid_price': 5.8,
+    'bid_size': 26,
+    'conditions': ['R'],
+    'symbol': 'ERYP',
+    'tape': 'C',
+    'timestamp': 1627681751623764480})
+quote Quote({   'ask_exchange': 'P',
+    'ask_price': 2710.0,
+    'ask_size': 1,
+    'bid_exchange': 'Y',
+    'bid_price': 2697.01,
+    'bid_size': 1,
+    'conditions': ['R'],
+    'symbol': 'GOOG',
+    'tape': 'C',
+    'timestamp': 1627681778741766000})
+quote Quote({   'ask_exchange': 'P',
+    'ask_price': 5.81,
+    'ask_size': 14,
+    'bid_exchange': 'P',
+    'bid_price': 5.8,
+    'bid_size': 26,
+    'conditions': ['R'],
+    'symbol': 'ERYP',
+    'tape': 'C',
+    'timestamp': 1627681779734306048})
+quote Quote({   'ask_exchange': 'P',
+    'ask_price': 2710.0,
+    'ask_size': 1,
+    'bid_exchange': 'P',
+    'bid_price': 2697.0,
+    'bid_size': 1,
+    'conditions': ['R'],
+    'symbol': 'GOOG',
+    'tape': 'C',
+    'timestamp': 1627681787752736000})
+quote Quote({   'ask_exchange': 'P',
+    'ask_price': 145.89,
+    'ask_size': 10,
+    'bid_exchange': 'P',
+    'bid_price': 145.86,
+    'bid_size': 7,
+    'conditions': ['R'],
+    'symbol': 'AAPL',
+    'tape': 'C',
+    'timestamp': 1627681790731777536})
+quote Quote({   'ask_exchange': 'P',
+    'ask_price': 145.89,
+    'ask_size': 11,
+    'bid_exchange': 'P',
+    'bid_price': 145.86,
+    'bid_size': 7,
+    'conditions': ['R'],
+    'symbol': 'AAPL',
+    'tape': 'C',
+    'timestamp': 1627681791497050112})
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+quote Quote({   'ask_exchange': 'P',
+    'ask_price': 145.89,
+    'ask_size': 11,
+    'bid_exchange': 'P',
+    'bid_price': 145.86,
+    'bid_size': 4,
+    'conditions': ['R'],
+    'symbol': 'AAPL',
+    'tape': 'C',
+    'timestamp': 1627681809981324032})
+quote Quote({   'ask_exchange': 'P',
+    'ask_price': 145.89,
+    'ask_size': 10,
+    'bid_exchange': 'P',
+    'bid_price': 145.87,
+    'bid_size': 2,
+    'conditions': ['R'],
+    'symbol': 'AAPL',
+    'tape': 'C',
+    'timestamp': 1627681810577986048})
+quote Quote({   'ask_exchange': 'P',
+    'ask_price': 5.81,
+    'ask_size': 7,
+    'bid_exchange': 'P',
+    'bid_price': 5.8,
+    'bid_size': 26,
+    'conditions': ['R'],
+    'symbol': 'ERYP',
+    'tape': 'C',
+    'timestamp': 1627681814963028480})
+quote Quote({   'ask_exchange': 'P',
+    'ask_price': 5.81,
+    'ask_size': 6,
+    'bid_exchange': 'P',
+    'bid_price': 5.8,
+    'bid_size': 26,
+    'conditions': ['R'],
+    'symbol': 'ERYP',
+    'tape': 'C',
+    'timestamp': 1627681836789931776})
+quote Quote({   'ask_exchange': 'P',
+    'ask_price': 5.81,
+    'ask_size': 5,
+    'bid_exchange': 'P',
+    'bid_price': 5.8,
+    'bid_size': 26,
+    'conditions': ['R'],
+    'symbol': 'ERYP',
+    'tape': 'C',
+    'timestamp': 1627681840888468224})
+quote Quote({   'ask_exchange': 'P',
+    'ask_price': 5.81,
+    'ask_size': 4,
+    'bid_exchange': 'P',
+    'bid_price': 5.8,
+    'bid_size': 26,
+    'conditions': ['R'],
+    'symbol': 'ERYP',
+    'tape': 'C',
+    'timestamp': 1627681856725934336})
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+quote Quote({   'ask_exchange': 'P',
+    'ask_price': 145.89,
+    'ask_size': 10,
+    'bid_exchange': 'P',
+    'bid_price': 145.87,
+    'bid_size': 1,
+    'conditions': ['R'],
+    'symbol': 'AAPL',
+    'tape': 'C',
+    'timestamp': 1627681864393874944})
+quote Quote({   'ask_exchange': 'P',
+    'ask_price': 5.81,
+    'ask_size': 3,
+    'bid_exchange': 'P',
+    'bid_price': 5.8,
+    'bid_size': 26,
+    'conditions': ['R'],
+    'symbol': 'ERYP',
+    'tape': 'C',
+    'timestamp': 1627681870317556224})
+quote Quote({   'ask_exchange': 'P',
+    'ask_price': 145.89,
+    'ask_size': 10,
+    'bid_exchange': 'P',
+    'bid_price': 145.86,
+    'bid_size': 5,
+    'conditions': ['R'],
+    'symbol': 'AAPL',
+    'tape': 'C',
+    'timestamp': 1627681874027406848})
+quote Quote({   'ask_exchange': 'P',
+    'ask_price': 5.81,
+    'ask_size': 3,
+    'bid_exchange': 'P',
+    'bid_price': 5.8,
+    'bid_size': 136,
+    'conditions': ['R'],
+    'symbol': 'ERYP',
+    'tape': 'C',
+    'timestamp': 1627681875195733760})
+quote Quote({   'ask_exchange': 'P',
+    'ask_price': 5.81,
+    'ask_size': 2,
+    'bid_exchange': 'P',
+    'bid_price': 5.8,
+    'bid_size': 136,
+    'conditions': ['R'],
+    'symbol': 'ERYP',
+    'tape': 'C',
+    'timestamp': 1627681877125185792})
+quote Quote({   'ask_exchange': 'P',
+    'ask_price': 5.82,
+    'ask_size': 6,
+    'bid_exchange': 'P',
+    'bid_price': 5.8,
+    'bid_size': 136,
+    'conditions': ['R'],
+    'symbol': 'ERYP',
+    'tape': 'C',
+    'timestamp': 1627681880646208000})
+quote Quote({   'ask_exchange': 'P',
+    'ask_price': 5.82,
+    'ask_size': 5,
+    'bid_exchange': 'P',
+    'bid_price': 5.8,
+    'bid_size': 136,
+    'conditions': ['R'],
+    'symbol': 'ERYP',
+    'tape': 'C',
+    'timestamp': 1627681898603224064})
+quote Quote({   'ask_exchange': 'P',
+    'ask_price': 5.81,
+    'ask_size': 1,
+    'bid_exchange': 'P',
+    'bid_price': 5.8,
+    'bid_size': 136,
+    'conditions': ['R'],
+    'symbol': 'ERYP',
+    'tape': 'C',
+    'timestamp': 1627681918405868544})
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+quote Quote({   'ask_exchange': 'P',
+    'ask_price': 5.81,
+    'ask_size': 1,
+    'bid_exchange': 'P',
+    'bid_price': 5.8,
+    'bid_size': 129,
+    'conditions': ['R'],
+    'symbol': 'ERYP',
+    'tape': 'C',
+    'timestamp': 1627681924590264576})
+quote Quote({   'ask_exchange': 'P',
+    'ask_price': 145.89,
+    'ask_size': 11,
+    'bid_exchange': 'P',
+    'bid_price': 145.86,
+    'bid_size': 5,
+    'conditions': ['R'],
+    'symbol': 'AAPL',
+    'tape': 'C',
+    'timestamp': 1627681954613865728})
+quote Quote({   'ask_exchange': 'P',
+    'ask_price': 145.89,
+    'ask_size': 11,
+    'bid_exchange': 'P',
+    'bid_price': 145.86,
+    'bid_size': 4,
+    'conditions': ['R'],
+    'symbol': 'AAPL',
+    'tape': 'C',
+    'timestamp': 1627681955230528256})
+quote Quote({   'ask_exchange': 'P',
+    'ask_price': 5.82,
+    'ask_size': 6,
+    'bid_exchange': 'P',
+    'bid_price': 5.8,
+    'bid_size': 129,
+    'conditions': ['R'],
+    'symbol': 'ERYP',
+    'tape': 'C',
+    'timestamp': 1627681976237752064})
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+quote Quote({   'ask_exchange': 'P',
+    'ask_price': 5.82,
+    'ask_size': 5,
+    'bid_exchange': 'P',
+    'bid_price': 5.8,
+    'bid_size': 129,
+    'conditions': ['R'],
+    'symbol': 'ERYP',
+    'tape': 'C',
+    'timestamp': 1627681988192838400})
+quote Quote({   'ask_exchange': 'P',
+    'ask_price': 5.82,
+    'ask_size': 5,
+    'bid_exchange': 'P',
+    'bid_price': 5.8,
+    'bid_size': 130,
+    'conditions': ['R'],
+    'symbol': 'ERYP',
+    'tape': 'C',
+    'timestamp': 1627681993196547328})
+quote Quote({   'ask_exchange': 'P',
+    'ask_price': 5.82,
+    'ask_size': 5,
+    'bid_exchange': 'P',
+    'bid_price': 5.8,
+    'bid_size': 330,
+    'conditions': ['R'],
+    'symbol': 'ERYP',
+    'tape': 'C',
+    'timestamp': 1627682009978379008})
+quote Quote({   'ask_exchange': 'P',
+    'ask_price': 5.82,
+    'ask_size': 5,
+    'bid_exchange': 'P',
+    'bid_price': 5.8,
+    'bid_size': 130,
+    'conditions': ['R'],
+    'symbol': 'ERYP',
+    'tape': 'C',
+    'timestamp': 1627682016822917632})
+quote Quote({   'ask_exchange': 'P',
+    'ask_price': 145.89,
+    'ask_size': 11,
+    'bid_exchange': 'P',
+    'bid_price': 145.86,
+    'bid_size': 3,
+    'conditions': ['R'],
+    'symbol': 'AAPL',
+    'tape': 'C',
+    'timestamp': 1627682019269244672})
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+quote Quote({   'ask_exchange': 'P',
+    'ask_price': 5.86,
+    'ask_size': 3,
+    'bid_exchange': 'P',
+    'bid_price': 5.8,
+    'bid_size': 130,
+    'conditions': ['R'],
+    'symbol': 'ERYP',
+    'tape': 'C',
+    'timestamp': 1627682046485145856})
+quote Quote({   'ask_exchange': 'P',
+    'ask_price': 5.86,
+    'ask_size': 3,
+    'bid_exchange': 'P',
+    'bid_price': 5.81,
+    'bid_size': 6,
+    'conditions': ['R'],
+    'symbol': 'ERYP',
+    'tape': 'C',
+    'timestamp': 1627682048240714752})
+quote Quote({   'ask_exchange': 'P',
+    'ask_price': 5.86,
+    'ask_size': 3,
+    'bid_exchange': 'P',
+    'bid_price': 5.8,
+    'bid_size': 130,
+    'conditions': ['R'],
+    'symbol': 'ERYP',
+    'tape': 'C',
+    'timestamp': 1627682055478032384})
+quote Quote({   'ask_exchange': 'P',
+    'ask_price': 5.86,
+    'ask_size': 3,
+    'bid_exchange': 'P',
+    'bid_price': 5.81,
+    'bid_size': 1,
+    'conditions': ['R'],
+    'symbol': 'ERYP',
+    'tape': 'C',
+    'timestamp': 1627682058323565312})
+quote Quote({   'ask_exchange': 'P',
+    'ask_price': 5.86,
+    'ask_size': 10,
+    'bid_exchange': 'K',
+    'bid_price': 5.81,
+    'bid_size': 1,
+    'conditions': ['R'],
+    'symbol': 'ERYP',
+    'tape': 'C',
+    'timestamp': 1627682070460769280})
+quote Quote({   'ask_exchange': 'P',
+    'ask_price': 5.86,
+    'ask_size': 10,
+    'bid_exchange': 'P',
+    'bid_price': 5.81,
+    'bid_size': 11,
+    'conditions': ['R'],
+    'symbol': 'ERYP',
+    'tape': 'C',
+    'timestamp': 1627682072385175808})
+quote Quote({   'ask_exchange': 'P',
+    'ask_price': 5.86,
+    'ask_size': 10,
+    'bid_exchange': 'P',
+    'bid_price': 5.82,
+    'bid_size': 1,
+    'conditions': ['R'],
+    'symbol': 'ERYP',
+    'tape': 'C',
+    'timestamp': 1627682074826500608})
+quote Quote({   'ask_exchange': 'P',
+    'ask_price': 5.86,
+    'ask_size': 10,
+    'bid_exchange': 'P',
+    'bid_price': 5.83,
+    'bid_size': 1,
+    'conditions': ['R'],
+    'symbol': 'ERYP',
+    'tape': 'C',
+    'timestamp': 1627682083352453632})
+quote Quote({   'ask_exchange': 'P',
+    'ask_price': 5.86,
+    'ask_size': 10,
+    'bid_exchange': 'P',
+    'bid_price': 5.82,
+    'bid_size': 1,
+    'conditions': ['R'],
+    'symbol': 'ERYP',
+    'tape': 'C',
+    'timestamp': 1627682097575697152})
+quote Quote({   'ask_exchange': 'P',
+    'ask_price': 5.86,
+    'ask_size': 10,
+    'bid_exchange': 'P',
+    'bid_price': 5.84,
+    'bid_size': 1,
+    'conditions': ['R'],
+    'symbol': 'ERYP',
+    'tape': 'C',
+    'timestamp': 1627682097580299776})
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+quote Quote({   'ask_exchange': 'P',
+    'ask_price': 145.89,
+    'ask_size': 12,
+    'bid_exchange': 'P',
+    'bid_price': 145.86,
+    'bid_size': 3,
+    'conditions': ['R'],
+    'symbol': 'AAPL',
+    'tape': 'C',
+    'timestamp': 1627682113354979840})
+quote Quote({   'ask_exchange': 'P',
+    'ask_price': 5.86,
+    'ask_size': 10,
+    'bid_exchange': 'P',
+    'bid_price': 5.82,
+    'bid_size': 1,
+    'conditions': ['R'],
+    'symbol': 'ERYP',
+    'tape': 'C',
+    'timestamp': 1627682113392988160})
+quote Quote({   'ask_exchange': 'P',
+    'ask_price': 5.86,
+    'ask_size': 10,
+    'bid_exchange': 'P',
+    'bid_price': 5.85,
+    'bid_size': 1,
+    'conditions': ['R'],
+    'symbol': 'ERYP',
+    'tape': 'C',
+    'timestamp': 1627682113397485568})
+quote Quote({   'ask_exchange': 'P',
+    'ask_price': 5.86,
+    'ask_size': 3,
+    'bid_exchange': 'P',
+    'bid_price': 5.85,
+    'bid_size': 1,
+    'conditions': ['R'],
+    'symbol': 'ERYP',
+    'tape': 'C',
+    'timestamp': 1627682119689011200})
+quote Quote({   'ask_exchange': 'P',
+    'ask_price': 5.86,
+    'ask_size': 3,
+    'bid_exchange': 'P',
+    'bid_price': 5.82,
+    'bid_size': 1,
+    'conditions': ['R'],
+    'symbol': 'ERYP',
+    'tape': 'C',
+    'timestamp': 1627682123041266944})
+quote Quote({   'ask_exchange': 'P',
+    'ask_price': 145.89,
+    'ask_size': 11,
+    'bid_exchange': 'P',
+    'bid_price': 145.86,
+    'bid_size': 3,
+    'conditions': ['R'],
+    'symbol': 'AAPL',
+    'tape': 'C',
+    'timestamp': 1627682130642343680})
+quote Quote({   'ask_exchange': 'P',
+    'ask_price': 5.86,
+    'ask_size': 3,
+    'bid_exchange': 'P',
+    'bid_price': 5.83,
+    'bid_size': 6,
+    'conditions': ['R'],
+    'symbol': 'ERYP',
+    'tape': 'C',
+    'timestamp': 1627682139011022848})
+quote Quote({   'ask_exchange': 'P',
+    'ask_price': 5.86,
+    'ask_size': 3,
+    'bid_exchange': 'P',
+    'bid_price': 5.84,
+    'bid_size': 2,
+    'conditions': ['R'],
+    'symbol': 'ERYP',
+    'tape': 'C',
+    'timestamp': 1627682149228734976})
+quote Quote({   'ask_exchange': 'Q',
+    'ask_price': 5.86,
+    'ask_size': 2,
+    'bid_exchange': 'P',
+    'bid_price': 5.84,
+    'bid_size': 2,
+    'conditions': ['R'],
+    'symbol': 'ERYP',
+    'tape': 'C',
+    'timestamp': 1627682149812483840})
+quote Quote({   'ask_exchange': 'P',
+    'ask_price': 5.86,
+    'ask_size': 1,
+    'bid_exchange': 'P',
+    'bid_price': 5.84,
+    'bid_size': 2,
+    'conditions': ['R'],
+    'symbol': 'ERYP',
+    'tape': 'C',
+    'timestamp': 1627682152925374976})
+quote Quote({   'ask_exchange': 'Q',
+    'ask_price': 5.86,
+    'ask_size': 2,
+    'bid_exchange': 'P',
+    'bid_price': 5.84,
+    'bid_size': 2,
+    'conditions': ['R'],
+    'symbol': 'ERYP',
+    'tape': 'C',
+    'timestamp': 1627682156485560019})
+quote Quote({   'ask_exchange': 'Q',
+    'ask_price': 5.86,
+    'ask_size': 2,
+    'bid_exchange': 'P',
+    'bid_price': 5.84,
+    'bid_size': 1,
+    'conditions': ['R'],
+    'symbol': 'ERYP',
+    'tape': 'C',
+    'timestamp': 1627682157105754112})
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+quote Quote({   'ask_exchange': 'P',
+    'ask_price': 5.86,
+    'ask_size': 1,
+    'bid_exchange': 'P',
+    'bid_price': 5.84,
+    'bid_size': 1,
+    'conditions': ['R'],
+    'symbol': 'ERYP',
+    'tape': 'C',
+    'timestamp': 1627682160669414936})
+quote Quote({   'ask_exchange': 'P',
+    'ask_price': 145.89,
+    'ask_size': 18,
+    'bid_exchange': 'P',
+    'bid_price': 145.86,
+    'bid_size': 3,
+    'conditions': ['R'],
+    'symbol': 'AAPL',
+    'tape': 'C',
+    'timestamp': 1627682174301704704})
+quote Quote({   'ask_exchange': 'P',
+    'ask_price': 5.86,
+    'ask_size': 1,
+    'bid_exchange': 'P',
+    'bid_price': 5.83,
+    'bid_size': 7,
+    'conditions': ['R'],
+    'symbol': 'ERYP',
+    'tape': 'C',
+    'timestamp': 1627682177551975424})
+quote Quote({   'ask_exchange': 'P',
+    'ask_price': 5.86,
+    'ask_size': 1,
+    'bid_exchange': 'P',
+    'bid_price': 5.83,
+    'bid_size': 1,
+    'conditions': ['R'],
+    'symbol': 'ERYP',
+    'tape': 'C',
+    'timestamp': 1627682201454400512})
+quote Quote({   'ask_exchange': 'P',
+    'ask_price': 5.86,
+    'ask_size': 1,
+    'bid_exchange': 'P',
+    'bid_price': 5.82,
+    'bid_size': 1,
+    'conditions': ['R'],
+    'symbol': 'ERYP',
+    'tape': 'C',
+    'timestamp': 1627682202729612032})
+quote Quote({   'ask_exchange': 'P',
+    'ask_price': 5.83,
+    'ask_size': 8,
+    'bid_exchange': 'P',
+    'bid_price': 5.82,
+    'bid_size': 1,
+    'conditions': ['R'],
+    'symbol': 'ERYP',
+    'tape': 'C',
+    'timestamp': 1627682207736459520})
+quote Quote({   'ask_exchange': 'P',
+    'ask_price': 5.83,
+    'ask_size': 3,
+    'bid_exchange': 'P',
+    'bid_price': 5.82,
+    'bid_size': 1,
+    'conditions': ['R'],
+    'symbol': 'ERYP',
+    'tape': 'C',
+    'timestamp': 1627682211354023680})
+quote Quote({   'ask_exchange': 'P',
+    'ask_price': 5.83,
+    'ask_size': 2,
+    'bid_exchange': 'P',
+    'bid_price': 5.82,
+    'bid_size': 1,
+    'conditions': ['R'],
+    'symbol': 'ERYP',
+    'tape': 'C',
+    'timestamp': 1627682211356516352})
+quote Quote({   'ask_exchange': 'P',
+    'ask_price': 5.86,
+    'ask_size': 1,
+    'bid_exchange': 'P',
+    'bid_price': 5.82,
+    'bid_size': 1,
+    'conditions': ['R'],
+    'symbol': 'ERYP',
+    'tape': 'C',
+    'timestamp': 1627682214247981312})
+quote Quote({   'ask_exchange': 'P',
+    'ask_price': 5.86,
+    'ask_size': 1,
+    'bid_exchange': 'P',
+    'bid_price': 5.81,
+    'bid_size': 13,
+    'conditions': ['R'],
+    'symbol': 'ERYP',
+    'tape': 'C',
+    'timestamp': 1627682216598157568})
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+quote Quote({   'ask_exchange': 'P',
+    'ask_price': 145.89,
+    'ask_size': 18,
+    'bid_exchange': 'P',
+    'bid_price': 145.86,
+    'bid_size': 1,
+    'conditions': ['R'],
+    'symbol': 'AAPL',
+    'tape': 'C',
+    'timestamp': 1627682226908263936})
+quote Quote({   'ask_exchange': 'P',
+    'ask_price': 145.89,
+    'ask_size': 18,
+    'bid_exchange': 'P',
+    'bid_price': 145.85,
+    'bid_size': 6,
+    'conditions': ['R'],
+    'symbol': 'AAPL',
+    'tape': 'C',
+    'timestamp': 1627682229348931584})
+
+
+quote Quote({   'ask_exchange': 'P',
+    'ask_price': 145.89,
+    'ask_size': 11,
+    'bid_exchange': 'P',
+    'bid_price': 145.85,
+    'bid_size': 6,
+    'conditions': ['R'],
+    'symbol': 'AAPL',
+    'tape': 'C',
+    'timestamp': 1627682256645586688})
+quote Quote({   'ask_exchange': 'P',
+    'ask_price': 145.89,
+    'ask_size': 18,
+    'bid_exchange': 'P',
+    'bid_price': 145.85,
+    'bid_size': 6,
+    'conditions': ['R'],
+    'symbol': 'AAPL',
+    'tape': 'C',
+    'timestamp': 1627682256648950784})
+quote Quote({   'ask_exchange': 'P',
+    'ask_price': 5.85,
+    'ask_size': 2,
+    'bid_exchange': 'P',
+    'bid_price': 5.81,
+    'bid_size': 13,
+    'conditions': ['R'],
+    'symbol': 'ERYP',
+    'tape': 'C',
+    'timestamp': 1627682262885638400})
+quote Quote({   'ask_exchange': 'P',
+    'ask_price': 145.89,
+    'ask_size': 18,
+    'bid_exchange': 'P',
+    'bid_price': 145.85,
+    'bid_size': 5,
+    'conditions': ['R'],
+    'symbol': 'AAPL',
+    'tape': 'C',
+    'timestamp': 1627682275086345984})
+quote Quote({   'ask_exchange': 'P',
+    'ask_price': 145.89,
+    'ask_size': 18,
+    'bid_exchange': 'P',
+    'bid_price': 145.85,
+    'bid_size': 4,
+    'conditions': ['R'],
+    'symbol': 'AAPL',
+    'tape': 'C',
+    'timestamp': 1627682275087970048})
+quote Quote({   'ask_exchange': 'P',
+    'ask_price': 5.85,
+    'ask_size': 2,
+    'bid_exchange': 'P',
+    'bid_price': 5.82,
+    'bid_size': 2,
+    'conditions': ['R'],
+    'symbol': 'ERYP',
+    'tape': 'C',
+    'timestamp': 1627682277689663488})
+quote Quote({   'ask_exchange': 'P',
+    'ask_price': 5.85,
+    'ask_size': 2,
+    'bid_exchange': 'P',
+    'bid_price': 5.81,
+    'bid_size': 14,
+    'conditions': ['R'],
+    'symbol': 'ERYP',
+    'tape': 'C',
+    'timestamp': 1627682279795374080})
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+quote Quote({   'ask_exchange': 'P',
+    'ask_price': 5.85,
+    'ask_size': 2,
+    'bid_exchange': 'P',
+    'bid_price': 5.81,
+    'bid_size': 13,
+    'conditions': ['R'],
+    'symbol': 'ERYP',
+    'tape': 'C',
+    'timestamp': 1627682290010077696})
+quote Quote({   'ask_exchange': 'P',
+    'ask_price': 5.85,
+    'ask_size': 2,
+    'bid_exchange': 'P',
+    'bid_price': 5.81,
+    'bid_size': 12,
+    'conditions': ['R'],
+    'symbol': 'ERYP',
+    'tape': 'C',
+    'timestamp': 1627682300239292160})
+quote Quote({   'ask_exchange': 'P',
+    'ask_price': 5.85,
+    'ask_size': 2,
+    'bid_exchange': 'Q',
+    'bid_price': 5.83,
+    'bid_size': 3,
+    'conditions': ['R'],
+    'symbol': 'ERYP',
+    'tape': 'C',
+    'timestamp': 1627682307945700748})
+quote Quote({   'ask_exchange': 'P',
+    'ask_price': 5.85,
+    'ask_size': 2,
+    'bid_exchange': 'Q',
+    'bid_price': 5.83,
+    'bid_size': 2,
+    'conditions': ['R'],
+    'symbol': 'ERYP',
+    'tape': 'C',
+    'timestamp': 1627682307946527452})
+quote Quote({   'ask_exchange': 'P',
+    'ask_price': 5.85,
+    'ask_size': 2,
+    'bid_exchange': 'Q',
+    'bid_price': 5.83,
+    'bid_size': 1,
+    'conditions': ['R'],
+    'symbol': 'ERYP',
+    'tape': 'C',
+    'timestamp': 1627682323564702328})
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+quote Quote({   'ask_exchange': 'P',
+    'ask_price': 5.86,
+    'ask_size': 1,
+    'bid_exchange': 'Q',
+    'bid_price': 5.83,
+    'bid_size': 1,
+    'conditions': ['R'],
+    'symbol': 'ERYP',
+    'tape': 'C',
+    'timestamp': 1627682346186860800})
+quote Quote({   'ask_exchange': 'P',
+    'ask_price': 145.89,
+    'ask_size': 17,
+    'bid_exchange': 'P',
+    'bid_price': 145.85,
+    'bid_size': 4,
+    'conditions': ['R'],
+    'symbol': 'AAPL',
+    'tape': 'C',
+    'timestamp': 1627682348691703808})
+quote Quote({   'ask_exchange': 'P',
+    'ask_price': 5.86,
+    'ask_size': 1,
+    'bid_exchange': 'P',
+    'bid_price': 5.85,
+    'bid_size': 2,
+    'conditions': ['R'],
+    'symbol': 'ERYP',
+    'tape': 'C',
+    'timestamp': 1627682351193214464})
+quote Quote({   'ask_exchange': 'P',
+    'ask_price': 145.89,
+    'ask_size': 17,
+    'bid_exchange': 'P',
+    'bid_price': 145.85,
+    'bid_size': 5,
+    'conditions': ['R'],
+    'symbol': 'AAPL',
+    'tape': 'C',
+    'timestamp': 1627682359194252288})
+quote Quote({   'ask_exchange': 'P',
+    'ask_price': 145.88,
+    'ask_size': 1,
+    'bid_exchange': 'P',
+    'bid_price': 145.85,
+    'bid_size': 5,
+    'conditions': ['R'],
+    'symbol': 'AAPL',
+    'tape': 'C',
+    'timestamp': 1627682368104019456})
+quote Quote({   'ask_exchange': 'P',
+    'ask_price': 145.88,
+    'ask_size': 1,
+    'bid_exchange': 'P',
+    'bid_price': 145.85,
+    'bid_size': 4,
+    'conditions': ['R'],
+    'symbol': 'AAPL',
+    'tape': 'C',
+    'timestamp': 1627682369752780800})
+quote Quote({   'ask_exchange': 'P',
+    'ask_price': 145.89,
+    'ask_size': 17,
+    'bid_exchange': 'P',
+    'bid_price': 145.85,
+    'bid_size': 4,
+    'conditions': ['R'],
+    'symbol': 'AAPL',
+    'tape': 'C',
+    'timestamp': 1627682376716454400})
+quote Quote({   'ask_exchange': 'P',
+    'ask_price': 5.86,
+    'ask_size': 1,
+    'bid_exchange': 'Q',
+    'bid_price': 5.83,
+    'bid_size': 1,
+    'conditions': ['R'],
+    'symbol': 'ERYP',
+    'tape': 'C',
+    'timestamp': 1627682376814788096})
+quote Quote({   'ask_exchange': 'P',
+    'ask_price': 5.86,
+    'ask_size': 1,
+    'bid_exchange': 'P',
+    'bid_price': 5.82,
+    'bid_size': 22,
+    'conditions': ['R'],
+    'symbol': 'ERYP',
+    'tape': 'C',
+    'timestamp': 1627682376816357753})
+quote Quote({   'ask_exchange': 'P',
+    'ask_price': 5.86,
+    'ask_size': 1,
+    'bid_exchange': 'Q',
+    'bid_price': 5.83,
+    'bid_size': 1,
+    'conditions': ['R'],
+    'symbol': 'ERYP',
+    'tape': 'C',
+    'timestamp': 1627682376816415684})
+quote Quote({   'ask_exchange': 'P',
+    'ask_price': 5.86,
+    'ask_size': 1,
+    'bid_exchange': 'P',
+    'bid_price': 5.82,
+    'bid_size': 22,
+    'conditions': ['R'],
+    'symbol': 'ERYP',
+    'tape': 'C',
+    'timestamp': 1627682376818628283})
+quote Quote({   'ask_exchange': 'P',
+    'ask_price': 5.83,
+    'ask_size': 12,
+    'bid_exchange': 'P',
+    'bid_price': 5.82,
+    'bid_size': 22,
+    'conditions': ['R'],
+    'symbol': 'ERYP',
+    'tape': 'C',
+    'timestamp': 1627682376824820480})
+quote Quote({   'ask_exchange': 'P',
+    'ask_price': 5.83,
+    'ask_size': 12,
+    'bid_exchange': 'P',
+    'bid_price': 5.82,
+    'bid_size': 20,
+    'conditions': ['R'],
+    'symbol': 'ERYP',
+    'tape': 'C',
+    'timestamp': 1627682390999330560})
+quote Quote({   'ask_exchange': 'P',
+    'ask_price': 5.86,
+    'ask_size': 1,
+    'bid_exchange': 'P',
+    'bid_price': 5.82,
+    'bid_size': 20,
+    'conditions': ['R'],
+    'symbol': 'ERYP',
+    'tape': 'C',
+    'timestamp': 1627682392642043136})
+quote Quote({   'ask_exchange': 'P',
+    'ask_price': 5.86,
+    'ask_size': 1,
+    'bid_exchange': 'P',
+    'bid_price': 5.85,
+    'bid_size': 27,
+    'conditions': ['R'],
+    'symbol': 'ERYP',
+    'tape': 'C',
+    'timestamp': 1627682392653231872})
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+quote Quote({   'ask_exchange': 'P',
+    'ask_price': 2710.0,
+    'ask_size': 1,
+    'bid_exchange': 'P',
+    'bid_price': 2696.71,
+    'bid_size': 1,
+    'conditions': ['R'],
+    'symbol': 'GOOG',
+    'tape': 'C',
+    'timestamp': 1627682401049208832})
+quote Quote({   'ask_exchange': 'P',
+    'ask_price': 2710.0,
+    'ask_size': 1,
+    'bid_exchange': 'Q',
+    'bid_price': 2695.0,
+    'bid_size': 1,
+    'conditions': ['R'],
+    'symbol': 'GOOG',
+    'tape': 'C',
+    'timestamp': 1627682402055440896})
+quote Quote({   'ask_exchange': 'P',
+    'ask_price': 5.86,
+    'ask_size': 1,
+    'bid_exchange': 'P',
+    'bid_price': 5.85,
+    'bid_size': 7,
+    'conditions': ['R'],
+    'symbol': 'ERYP',
+    'tape': 'C',
+    'timestamp': 1627682404240498944})
+quote Quote({   'ask_exchange': 'P',
+    'ask_price': 5.86,
+    'ask_size': 1,
+    'bid_exchange': 'P',
+    'bid_price': 5.85,
+    'bid_size': 5,
+    'conditions': ['R'],
+    'symbol': 'ERYP',
+    'tape': 'C',
+    'timestamp': 1627682408570612480})
+quote Quote({   'ask_exchange': 'P',
+    'ask_price': 5.86,
+    'ask_size': 1,
+    'bid_exchange': 'P',
+    'bid_price': 5.85,
+    'bid_size': 7,
+    'conditions': ['R'],
+    'symbol': 'ERYP',
+    'tape': 'C',
+    'timestamp': 1627682417108508416})
+quote Quote({   'ask_exchange': 'P',
+    'ask_price': 5.86,
+    'ask_size': 1,
+    'bid_exchange': 'P',
+    'bid_price': 5.85,
+    'bid_size': 5,
+    'conditions': ['R'],
+    'symbol': 'ERYP',
+    'tape': 'C',
+    'timestamp': 1627682420465032960})
+quote Quote({   'ask_exchange': 'P',
+    'ask_price': 145.89,
+    'ask_size': 10,
+    'bid_exchange': 'P',
+    'bid_price': 145.85,
+    'bid_size': 4,
+    'conditions': ['R'],
+    'symbol': 'AAPL',
+    'tape': 'C',
+    'timestamp': 1627682423315436032})
+quote Quote({   'ask_exchange': 'P',
+    'ask_price': 145.89,
+    'ask_size': 17,
+    'bid_exchange': 'P',
+    'bid_price': 145.85,
+    'bid_size': 4,
+    'conditions': ['R'],
+    'symbol': 'AAPL',
+    'tape': 'C',
+    'timestamp': 1627682423319601664})
+quote Quote({   'ask_exchange': 'P',
+    'ask_price': 5.86,
+    'ask_size': 1,
+    'bid_exchange': 'P',
+    'bid_price': 5.85,
+    'bid_size': 4,
+    'conditions': ['R'],
+    'symbol': 'ERYP',
+    'tape': 'C',
+    'timestamp': 1627682426239241472})
+quote Quote({   'ask_exchange': 'P',
+    'ask_price': 5.86,
+    'ask_size': 1,
+    'bid_exchange': 'P',
+    'bid_price': 5.85,
+    'bid_size': 3,
+    'conditions': ['R'],
+    'symbol': 'ERYP',
+    'tape': 'C',
+    'timestamp': 1627682433806565632})
+quote Quote({   'ask_exchange': 'P',
+    'ask_price': 5.87,
+    'ask_size': 1,
+    'bid_exchange': 'P',
+    'bid_price': 5.85,
+    'bid_size': 3,
+    'conditions': ['R'],
+    'symbol': 'ERYP',
+    'tape': 'C',
+    'timestamp': 1627682444693552384})
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+quote Quote({   'ask_exchange': 'P',
+    'ask_price': 5.87,
+    'ask_size': 1,
+    'bid_exchange': 'P',
+    'bid_price': 5.85,
+    'bid_size': 2,
+    'conditions': ['R'],
+    'symbol': 'ERYP',
+    'tape': 'C',
+    'timestamp': 1627682463466910464})
+quote Quote({   'ask_exchange': 'P',
+    'ask_price': 2710.0,
+    'ask_size': 1,
+    'bid_exchange': 'Y',
+    'bid_price': 2695.01,
+    'bid_size': 1,
+    'conditions': ['R'],
+    'symbol': 'GOOG',
+    'tape': 'C',
+    'timestamp': 1627682470086922000})
+quote Quote({   'ask_exchange': 'P',
+    'ask_price': 145.89,
+    'ask_size': 17,
+    'bid_exchange': 'P',
+    'bid_price': 145.83,
+    'bid_size': 2,
+    'conditions': ['R'],
+    'symbol': 'AAPL',
+    'tape': 'C',
+    'timestamp': 1627682515222689536})
+quote Quote({   'ask_exchange': 'P',
+    'ask_price': 5.86,
+    'ask_size': 15,
+    'bid_exchange': 'P',
+    'bid_price': 5.85,
+    'bid_size': 2,
+    'conditions': ['R'],
+    'symbol': 'ERYP',
+    'tape': 'C',
+    'timestamp': 1627682516555929600})
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+quote Quote({   'ask_exchange': 'Y',
+    'ask_price': 2710.0,
+    'ask_size': 1,
+    'bid_exchange': 'P',
+    'bid_price': 2695.15,
+    'bid_size': 1,
+    'conditions': ['R'],
+    'symbol': 'GOOG',
+    'tape': 'C',
+    'timestamp': 1627682520708765696})
+quote Quote({   'ask_exchange': 'P',
+    'ask_price': 5.86,
+    'ask_size': 15,
+    'bid_exchange': 'P',
+    'bid_price': 5.82,
+    'bid_size': 20,
+    'conditions': ['R'],
+    'symbol': 'ERYP',
+    'tape': 'C',
+    'timestamp': 1627682523649644288})
+quote Quote({   'ask_exchange': 'P',
+    'ask_price': 145.89,
+    'ask_size': 17,
+    'bid_exchange': 'P',
+    'bid_price': 145.84,
+    'bid_size': 16,
+    'conditions': ['R'],
+    'symbol': 'AAPL',
+    'tape': 'C',
+    'timestamp': 1627682525846319872})
+quote Quote({   'ask_exchange': 'P',
+    'ask_price': 5.86,
+    'ask_size': 16,
+    'bid_exchange': 'P',
+    'bid_price': 5.82,
+    'bid_size': 20,
+    'conditions': ['R'],
+    'symbol': 'ERYP',
+    'tape': 'C',
+    'timestamp': 1627682526029461504})
+quote Quote({   'ask_exchange': 'P',
+    'ask_price': 5.86,
+    'ask_size': 1,
+    'bid_exchange': 'P',
+    'bid_price': 5.82,
+    'bid_size': 20,
+    'conditions': ['R'],
+    'symbol': 'ERYP',
+    'tape': 'C',
+    'timestamp': 1627682527237992192})
+quote Quote({   'ask_exchange': 'P',
+    'ask_price': 145.89,
+    'ask_size': 10,
+    'bid_exchange': 'P',
+    'bid_price': 145.84,
+    'bid_size': 16,
+    'conditions': ['R'],
+    'symbol': 'AAPL',
+    'tape': 'C',
+    'timestamp': 1627682531968984832})
+quote Quote({   'ask_exchange': 'P',
+    'ask_price': 145.88,
+    'ask_size': 6,
+    'bid_exchange': 'P',
+    'bid_price': 145.84,
+    'bid_size': 16,
+    'conditions': ['R'],
+    'symbol': 'AAPL',
+    'tape': 'C',
+    'timestamp': 1627682531971233280})
+quote Quote({   'ask_exchange': 'P',
+    'ask_price': 5.86,
+    'ask_size': 1,
+    'bid_exchange': 'P',
+    'bid_price': 5.83,
+    'bid_size': 1,
+    'conditions': ['R'],
+    'symbol': 'ERYP',
+    'tape': 'C',
+    'timestamp': 1627682540829549824})
+quote Quote({   'ask_exchange': 'P',
+    'ask_price': 2706.0,
+    'ask_size': 2,
+    'bid_exchange': 'P',
+    'bid_price': 2695.15,
+    'bid_size': 1,
+    'conditions': ['R'],
+    'symbol': 'GOOG',
+    'tape': 'C',
+    'timestamp': 1627682554261373696})
+quote Quote({   'ask_exchange': 'P',
+    'ask_price': 2706.0,
+    'ask_size': 3,
+    'bid_exchange': 'P',
+    'bid_price': 2695.15,
+    'bid_size': 1,
+    'conditions': ['R'],
+    'symbol': 'GOOG',
+    'tape': 'C',
+    'timestamp': 1627682555281341696})
+quote Quote({   'ask_exchange': 'P',
+    'ask_price': 2706.0,
+    'ask_size': 4,
+    'bid_exchange': 'P',
+    'bid_price': 2695.15,
+    'bid_size': 1,
+    'conditions': ['R'],
+    'symbol': 'GOOG',
+    'tape': 'C',
+    'timestamp': 1627682555282139392})
+quote Quote({   'ask_exchange': 'P',
+    'ask_price': 2706.0,
+    'ask_size': 3,
+    'bid_exchange': 'P',
+    'bid_price': 2695.15,
+    'bid_size': 1,
+    'conditions': ['R'],
+    'symbol': 'GOOG',
+    'tape': 'C',
+    'timestamp': 1627682560870868736})
+quote Quote({   'ask_exchange': 'P',
+    'ask_price': 5.86,
+    'ask_size': 1,
+    'bid_exchange': 'P',
+    'bid_price': 5.85,
+    'bid_size': 8,
+    'conditions': ['R'],
+    'symbol': 'ERYP',
+    'tape': 'C',
+    'timestamp': 1627682575071142400})
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+quote Quote({   'ask_exchange': 'P',
+    'ask_price': 5.86,
+    'ask_size': 1,
+    'bid_exchange': 'P',
+    'bid_price': 5.83,
+    'bid_size': 1,
+    'conditions': ['R'],
+    'symbol': 'ERYP',
+    'tape': 'C',
+    'timestamp': 1627682586448949248})
+quote Quote({   'ask_exchange': 'P',
+    'ask_price': 5.85,
+    'ask_size': 22,
+    'bid_exchange': 'P',
+    'bid_price': 5.83,
+    'bid_size': 1,
+    'conditions': ['R'],
+    'symbol': 'ERYP',
+    'tape': 'C',
+    'timestamp': 1627682586455087872})
+quote Quote({   'ask_exchange': 'P',
+    'ask_price': 5.86,
+    'ask_size': 1,
+    'bid_exchange': 'P',
+    'bid_price': 5.83,
+    'bid_size': 1,
+    'conditions': ['R'],
+    'symbol': 'ERYP',
+    'tape': 'C',
+    'timestamp': 1627682589728579072})
+quote Quote({   'ask_exchange': 'P',
+    'ask_price': 5.86,
+    'ask_size': 1,
+    'bid_exchange': 'P',
+    'bid_price': 5.82,
+    'bid_size': 20,
+    'conditions': ['R'],
+    'symbol': 'ERYP',
+    'tape': 'C',
+    'timestamp': 1627682591997992704})
+quote Quote({   'ask_exchange': 'P',
+    'ask_price': 5.86,
+    'ask_size': 1,
+    'bid_exchange': 'P',
+    'bid_price': 5.82,
+    'bid_size': 130,
+    'conditions': ['R'],
+    'symbol': 'ERYP',
+    'tape': 'C',
+    'timestamp': 1627682598578599680})
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+quote Quote({   'ask_exchange': 'P',
+    'ask_price': 5.86,
+    'ask_size': 2,
+    'bid_exchange': 'P',
+    'bid_price': 5.82,
+    'bid_size': 130,
+    'conditions': ['R'],
+    'symbol': 'ERYP',
+    'tape': 'C',
+    'timestamp': 1627682653494303488})
+quote Quote({   'ask_exchange': 'P',
+    'ask_price': 5.86,
+    'ask_size': 3,
+    'bid_exchange': 'P',
+    'bid_price': 5.82,
+    'bid_size': 130,
+    'conditions': ['R'],
+    'symbol': 'ERYP',
+    'tape': 'C',
+    'timestamp': 1627682653744309760})
+quote Quote({   'ask_exchange': 'Y',
+    'ask_price': 2705.99,
+    'ask_size': 1,
+    'bid_exchange': 'P',
+    'bid_price': 2695.15,
+    'bid_size': 1,
+    'conditions': ['R'],
+    'symbol': 'GOOG',
+    'tape': 'C',
+    'timestamp': 1627682658238889000})
+quote Quote({   'ask_exchange': 'Y',
+    'ask_price': 2705.99,
+    'ask_size': 1,
+    'bid_exchange': 'Y',
+    'bid_price': 2695.16,
+    'bid_size': 1,
+    'conditions': ['R'],
+    'symbol': 'GOOG',
+    'tape': 'C',
+    'timestamp': 1627682662758347000})
+quote Quote({   'ask_exchange': 'P',
+    'ask_price': 2706.0,
+    'ask_size': 3,
+    'bid_exchange': 'Y',
+    'bid_price': 2695.16,
+    'bid_size': 1,
+    'conditions': ['R'],
+    'symbol': 'GOOG',
+    'tape': 'C',
+    'timestamp': 1627682665388472000})
+quote Quote({   'ask_exchange': 'P',
+    'ask_price': 5.86,
+    'ask_size': 3,
+    'bid_exchange': 'P',
+    'bid_price': 5.82,
+    'bid_size': 380,
+    'conditions': ['R'],
+    'symbol': 'ERYP',
+    'tape': 'C',
+    'timestamp': 1627682684376819200})
+quote Quote({   'ask_exchange': 'P',
+    'ask_price': 5.86,
+    'ask_size': 3,
+    'bid_exchange': 'P',
+    'bid_price': 5.82,
+    'bid_size': 377,
+    'conditions': ['R'],
+    'symbol': 'ERYP',
+    'tape': 'C',
+    'timestamp': 1627682688016075008})
+quote Quote({   'ask_exchange': 'P',
+    'ask_price': 5.86,
+    'ask_size': 3,
+    'bid_exchange': 'P',
+    'bid_price': 5.82,
+    'bid_size': 127,
+    'conditions': ['R'],
+    'symbol': 'ERYP',
+    'tape': 'C',
+    'timestamp': 1627682691424897024})
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+quote Quote({   'ask_exchange': 'P',
+    'ask_price': 5.86,
+    'ask_size': 3,
+    'bid_exchange': 'P',
+    'bid_price': 5.83,
+    'bid_size': 4,
+    'conditions': ['R'],
+    'symbol': 'ERYP',
+    'tape': 'C',
+    'timestamp': 1627682705250795264})
+quote Quote({   'ask_exchange': 'P',
+    'ask_price': 5.86,
+    'ask_size': 3,
+    'bid_exchange': 'P',
+    'bid_price': 5.83,
+    'bid_size': 5,
+    'conditions': ['R'],
+    'symbol': 'ERYP',
+    'tape': 'C',
+    'timestamp': 1627682723558511360})
+quote Quote({   'ask_exchange': 'P',
+    'ask_price': 5.86,
+    'ask_size': 2,
+    'bid_exchange': 'P',
+    'bid_price': 5.83,
+    'bid_size': 5,
+    'conditions': ['R'],
+    'symbol': 'ERYP',
+    'tape': 'C',
+    'timestamp': 1627682735605262848})
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+quote Quote({   'ask_exchange': 'P',
+    'ask_price': 5.86,
+    'ask_size': 1,
+    'bid_exchange': 'P',
+    'bid_price': 5.83,
+    'bid_size': 5,
+    'conditions': ['R'],
+    'symbol': 'ERYP',
+    'tape': 'C',
+    'timestamp': 1627682765063064576})
+quote Quote({   'ask_exchange': 'P',
+    'ask_price': 5.85,
+    'ask_size': 1,
+    'bid_exchange': 'P',
+    'bid_price': 5.83,
+    'bid_size': 5,
+    'conditions': ['R'],
+    'symbol': 'ERYP',
+    'tape': 'C',
+    'timestamp': 1627682765141524992})
+quote Quote({   'ask_exchange': 'P',
+    'ask_price': 5.86,
+    'ask_size': 2,
+    'bid_exchange': 'P',
+    'bid_price': 5.83,
+    'bid_size': 5,
+    'conditions': ['R'],
+    'symbol': 'ERYP',
+    'tape': 'C',
+    'timestamp': 1627682772425990912})
+quote Quote({   'ask_exchange': 'P',
+    'ask_price': 5.86,
+    'ask_size': 4,
+    'bid_exchange': 'P',
+    'bid_price': 5.83,
+    'bid_size': 5,
+    'conditions': ['R'],
+    'symbol': 'ERYP',
+    'tape': 'C',
+    'timestamp': 1627682796337944832})
+quote Quote({   'ask_exchange': 'P',
+    'ask_price': 145.88,
+    'ask_size': 7,
+    'bid_exchange': 'P',
+    'bid_price': 145.84,
+    'bid_size': 16,
+    'conditions': ['R'],
+    'symbol': 'AAPL',
+    'tape': 'C',
+    'timestamp': 1627682798641900032})
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+quote Quote({   'ask_exchange': 'P',
+    'ask_price': 2706.0,
+    'ask_size': 3,
+    'bid_exchange': 'J',
+    'bid_price': 2700.0,
+    'bid_size': 2,
+    'conditions': ['R'],
+    'symbol': 'GOOG',
+    'tape': 'C',
+    'timestamp': 1627682838749069000})
+quote Quote({   'ask_exchange': 'P',
+    'ask_price': 5.86,
+    'ask_size': 4,
+    'bid_exchange': 'P',
+    'bid_price': 5.84,
+    'bid_size': 1,
+    'conditions': ['R'],
+    'symbol': 'ERYP',
+    'tape': 'C',
+    'timestamp': 1627682841700903936})
+quote Quote({   'ask_exchange': 'P',
+    'ask_price': 2706.0,
+    'ask_size': 3,
+    'bid_exchange': 'Y',
+    'bid_price': 2695.16,
+    'bid_size': 1,
+    'conditions': ['R'],
+    'symbol': 'GOOG',
+    'tape': 'C',
+    'timestamp': 1627682845664058000})
+quote Quote({   'ask_exchange': 'P',
+    'ask_price': 145.86,
+    'ask_size': 25,
+    'bid_exchange': 'P',
+    'bid_price': 145.84,
+    'bid_size': 16,
+    'conditions': ['R'],
+    'symbol': 'AAPL',
+    'tape': 'C',
+    'timestamp': 1627682849005660416})
+quote Quote({   'ask_exchange': 'P',
+    'ask_price': 5.86,
+    'ask_size': 5,
+    'bid_exchange': 'P',
+    'bid_price': 5.84,
+    'bid_size': 1,
+    'conditions': ['R'],
+    'symbol': 'ERYP',
+    'tape': 'C',
+    'timestamp': 1627682850572792320})
+quote Quote({   'ask_exchange': 'P',
+    'ask_price': 5.9,
+    'ask_size': 2,
+    'bid_exchange': 'P',
+    'bid_price': 5.87,
+    'bid_size': 1,
+    'conditions': ['R'],
+    'symbol': 'ERYP',
+    'tape': 'C',
+    'timestamp': 1627682853689563648})
+quote Quote({   'ask_exchange': 'P',
+    'ask_price': 145.86,
+    'ask_size': 25,
+    'bid_exchange': 'P',
+    'bid_price': 145.84,
+    'bid_size': 12,
+    'conditions': ['R'],
+    'symbol': 'AAPL',
+    'tape': 'C',
+    'timestamp': 1627682858171994624})
+quote Quote({   'ask_exchange': 'P',
+    'ask_price': 5.9,
+    'ask_size': 2,
+    'bid_exchange': 'P',
+    'bid_price': 5.84,
+    'bid_size': 1,
+    'conditions': ['R'],
+    'symbol': 'ERYP',
+    'tape': 'C',
+    'timestamp': 1627682873299153408})
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+quote Quote({   'ask_exchange': 'P',
+    'ask_price': 5.9,
+    'ask_size': 2,
+    'bid_exchange': 'P',
+    'bid_price': 5.85,
+    'bid_size': 10,
+    'conditions': ['R'],
+    'symbol': 'ERYP',
+    'tape': 'C',
+    'timestamp': 1627682926748770560})
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+quote Quote({   'ask_exchange': 'P',
+    'ask_price': 5.9,
+    'ask_size': 2,
+    'bid_exchange': 'P',
+    'bid_price': 5.86,
+    'bid_size': 1,
+    'conditions': ['R'],
+    'symbol': 'ERYP',
+    'tape': 'C',
+    'timestamp': 1627682951161077504})
+quote Quote({   'ask_exchange': 'Q',
+    'ask_price': 5.89,
+    'ask_size': 1,
+    'bid_exchange': 'P',
+    'bid_price': 5.86,
+    'bid_size': 1,
+    'conditions': ['R'],
+    'symbol': 'ERYP',
+    'tape': 'C',
+    'timestamp': 1627682952653170302})
+quote Quote({   'ask_exchange': 'Q',
+    'ask_price': 5.89,
+    'ask_size': 1,
+    'bid_exchange': 'P',
+    'bid_price': 5.85,
+    'bid_size': 10,
+    'conditions': ['R'],
+    'symbol': 'ERYP',
+    'tape': 'C',
+    'timestamp': 1627682978054781440})
+quote Quote({   'ask_exchange': 'P',
+    'ask_price': 5.88,
+    'ask_size': 1,
+    'bid_exchange': 'P',
+    'bid_price': 5.85,
+    'bid_size': 10,
+    'conditions': ['R'],
+    'symbol': 'ERYP',
+    'tape': 'C',
+    'timestamp': 1627682980588008192})
+quote Quote({   'ask_exchange': 'P',
+    'ask_price': 145.86,
+    'ask_size': 25,
+    'bid_exchange': 'P',
+    'bid_price': 145.84,
+    'bid_size': 11,
+    'conditions': ['R'],
+    'symbol': 'AAPL',
+    'tape': 'C',
+    'timestamp': 1627682985657118720})
+quote Quote({   'ask_exchange': 'P',
+    'ask_price': 145.86,
+    'ask_size': 25,
+    'bid_exchange': 'P',
+    'bid_price': 145.84,
+    'bid_size': 8,
+    'conditions': ['R'],
+    'symbol': 'AAPL',
+    'tape': 'C',
+    'timestamp': 1627682997679642624})
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+quote Quote({   'ask_exchange': 'Q',
+    'ask_price': 5.87,
+    'ask_size': 2,
+    'bid_exchange': 'P',
+    'bid_price': 5.85,
+    'bid_size': 10,
+    'conditions': ['R'],
+    'symbol': 'ERYP',
+    'tape': 'C',
+    'timestamp': 1627683044704988272})
+quote Quote({   'ask_exchange': 'Q',
+    'ask_price': 5.87,
+    'ask_size': 2,
+    'bid_exchange': 'P',
+    'bid_price': 5.85,
+    'bid_size': 3,
+    'conditions': ['R'],
+    'symbol': 'ERYP',
+    'tape': 'C',
+    'timestamp': 1627683053591740928})
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+quote Quote({   'ask_exchange': 'P',
+    'ask_price': 5.88,
+    'ask_size': 1,
+    'bid_exchange': 'P',
+    'bid_price': 5.85,
+    'bid_size': 3,
+    'conditions': ['R'],
+    'symbol': 'ERYP',
+    'tape': 'C',
+    'timestamp': 1627683085132760380})
+quote Quote({   'ask_exchange': 'P',
+    'ask_price': 5.88,
+    'ask_size': 1,
+    'bid_exchange': 'P',
+    'bid_price': 5.85,
+    'bid_size': 1,
+    'conditions': ['R'],
+    'symbol': 'ERYP',
+    'tape': 'C',
+    'timestamp': 1627683085135674368})
+quote Quote({   'ask_exchange': 'P',
+    'ask_price': 5.85,
+    'ask_size': 8,
+    'bid_exchange': 'P',
+    'bid_price': 5.84,
+    'bid_size': 1,
+    'conditions': ['R'],
+    'symbol': 'ERYP',
+    'tape': 'C',
+    'timestamp': 1627683118209627136})
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+quote Quote({   'ask_exchange': 'Q',
+    'ask_price': 5.88,
+    'ask_size': 1,
+    'bid_exchange': 'P',
+    'bid_price': 5.84,
+    'bid_size': 1,
+    'conditions': ['R'],
+    'symbol': 'ERYP',
+    'tape': 'C',
+    'timestamp': 1627683151336334336})
+quote Quote({   'ask_exchange': 'P',
+    'ask_price': 5.88,
+    'ask_size': 1,
+    'bid_exchange': 'P',
+    'bid_price': 5.84,
+    'bid_size': 1,
+    'conditions': ['R'],
+    'symbol': 'ERYP',
+    'tape': 'C',
+    'timestamp': 1627683160290622721})
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+quote Quote({   'ask_exchange': 'P',
+    'ask_price': 5.88,
+    'ask_size': 1,
+    'bid_exchange': 'Q',
+    'bid_price': 5.85,
+    'bid_size': 1,
+    'conditions': ['R'],
+    'symbol': 'ERYP',
+    'tape': 'C',
+    'timestamp': 1627683190716627682})
+quote Quote({   'ask_exchange': 'P',
+    'ask_price': 5.85,
+    'ask_size': 7,
+    'bid_exchange': 'Q',
+    'bid_price': 5.85,
+    'bid_size': 1,
+    'conditions': ['R'],
+    'symbol': 'ERYP',
+    'tape': 'C',
+    'timestamp': 1627683200778120192})
+quote Quote({   'ask_exchange': 'P',
+    'ask_price': 5.85,
+    'ask_size': 7,
+    'bid_exchange': 'P',
+    'bid_price': 5.84,
+    'bid_size': 1,
+    'conditions': ['R'],
+    'symbol': 'ERYP',
+    'tape': 'C',
+    'timestamp': 1627683200778566922})
+quote Quote({   'ask_exchange': 'P',
+    'ask_price': 5.85,
+    'ask_size': 3,
+    'bid_exchange': 'P',
+    'bid_price': 5.84,
+    'bid_size': 1,
+    'conditions': ['R'],
+    'symbol': 'ERYP',
+    'tape': 'C',
+    'timestamp': 1627683200778976000})
+quote Quote({   'ask_exchange': 'Q',
+    'ask_price': 5.88,
+    'ask_size': 1,
+    'bid_exchange': 'P',
+    'bid_price': 5.84,
+    'bid_size': 1,
+    'conditions': ['R'],
+    'symbol': 'ERYP',
+    'tape': 'C',
+    'timestamp': 1627683213938237952})
+quote Quote({   'ask_exchange': 'P',
+    'ask_price': 145.86,
+    'ask_size': 25,
+    'bid_exchange': 'P',
+    'bid_price': 145.84,
+    'bid_size': 19,
+    'conditions': ['R'],
+    'symbol': 'AAPL',
+    'tape': 'C',
+    'timestamp': 1627683237075902208})
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+quote Quote({   'ask_exchange': 'Q',
+    'ask_price': 5.85,
+    'ask_size': 2,
+    'bid_exchange': 'P',
+    'bid_price': 5.84,
+    'bid_size': 1,
+    'conditions': ['R'],
+    'symbol': 'ERYP',
+    'tape': 'C',
+    'timestamp': 1627683251286948565})
+quote Quote({   'ask_exchange': 'Q',
+    'ask_price': 5.85,
+    'ask_size': 2,
+    'bid_exchange': 'P',
+    'bid_price': 5.83,
+    'bid_size': 5,
+    'conditions': ['R'],
+    'symbol': 'ERYP',
+    'tape': 'C',
+    'timestamp': 1627683260993217280})
+quote Quote({   'ask_exchange': 'P',
+    'ask_price': 5.84,
+    'ask_size': 4,
+    'bid_exchange': 'P',
+    'bid_price': 5.83,
+    'bid_size': 5,
+    'conditions': ['R'],
+    'symbol': 'ERYP',
+    'tape': 'C',
+    'timestamp': 1627683260999544576})
+quote Quote({   'ask_exchange': 'P',
+    'ask_price': 5.84,
+    'ask_size': 4,
+    'bid_exchange': 'P',
+    'bid_price': 5.83,
+    'bid_size': 4,
+    'conditions': ['R'],
+    'symbol': 'ERYP',
+    'tape': 'C',
+    'timestamp': 1627683266805403904})
+quote Quote({   'ask_exchange': 'Q',
+    'ask_price': 5.85,
+    'ask_size': 2,
+    'bid_exchange': 'P',
+    'bid_price': 5.83,
+    'bid_size': 4,
+    'conditions': ['R'],
+    'symbol': 'ERYP',
+    'tape': 'C',
+    'timestamp': 1627683269696267008})
+quote Quote({   'ask_exchange': 'Q',
+    'ask_price': 5.85,
+    'ask_size': 2,
+    'bid_exchange': 'P',
+    'bid_price': 5.82,
+    'bid_size': 127,
+    'conditions': ['R'],
+    'symbol': 'ERYP',
+    'tape': 'C',
+    'timestamp': 1627683282597850624})
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+quote Quote({   'ask_exchange': 'P',
+    'ask_price': 145.86,
+    'ask_size': 25,
+    'bid_exchange': 'P',
+    'bid_price': 145.84,
+    'bid_size': 18,
+    'conditions': ['R'],
+    'symbol': 'AAPL',
+    'tape': 'C',
+    'timestamp': 1627683304376611840})
+quote Quote({   'ask_exchange': 'P',
+    'ask_price': 2706.0,
+    'ask_size': 3,
+    'bid_exchange': 'P',
+    'bid_price': 2695.15,
+    'bid_size': 1,
+    'conditions': ['R'],
+    'symbol': 'GOOG',
+    'tape': 'C',
+    'timestamp': 1627683320450553000})
+quote Quote({   'ask_exchange': 'P',
+    'ask_price': 2706.0,
+    'ask_size': 3,
+    'bid_exchange': 'P',
+    'bid_price': 2695.01,
+    'bid_size': 1,
+    'conditions': ['R'],
+    'symbol': 'GOOG',
+    'tape': 'C',
+    'timestamp': 1627683328398677504})
+quote Quote({   'ask_exchange': 'P',
+    'ask_price': 2706.0,
+    'ask_size': 3,
+    'bid_exchange': 'P',
+    'bid_price': 2695.15,
+    'bid_size': 1,
+    'conditions': ['R'],
+    'symbol': 'GOOG',
+    'tape': 'C',
+    'timestamp': 1627683328473105920})
+quote Quote({   'ask_exchange': 'Q',
+    'ask_price': 5.85,
+    'ask_size': 1,
+    'bid_exchange': 'P',
+    'bid_price': 5.82,
+    'bid_size': 127,
+    'conditions': ['R'],
+    'symbol': 'ERYP',
+    'tape': 'C',
+    'timestamp': 1627683343786853056})
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+quote Quote({   'ask_exchange': 'P',
+    'ask_price': 145.86,
+    'ask_size': 25,
+    'bid_exchange': 'P',
+    'bid_price': 145.84,
+    'bid_size': 17,
+    'conditions': ['R'],
+    'symbol': 'AAPL',
+    'tape': 'C',
+    'timestamp': 1627683374943395840})
+quote Quote({   'ask_exchange': 'P',
+    'ask_price': 145.86,
+    'ask_size': 26,
+    'bid_exchange': 'P',
+    'bid_price': 145.84,
+    'bid_size': 17,
+    'conditions': ['R'],
+    'symbol': 'AAPL',
+    'tape': 'C',
+    'timestamp': 1627683379392197632})
+quote Quote({   'ask_exchange': 'Q',
+    'ask_price': 5.85,
+    'ask_size': 1,
+    'bid_exchange': 'P',
+    'bid_price': 5.83,
+    'bid_size': 20,
+    'conditions': ['R'],
+    'symbol': 'ERYP',
+    'tape': 'C',
+    'timestamp': 1627683382075706368})
+quote Quote({   'ask_exchange': 'Q',
+    'ask_price': 5.85,
+    'ask_size': 1,
+    'bid_exchange': 'P',
+    'bid_price': 5.83,
+    'bid_size': 25,
+    'conditions': ['R'],
+    'symbol': 'ERYP',
+    'tape': 'C',
+    'timestamp': 1627683382265649408})
+quote Quote({   'ask_exchange': 'P',
+    'ask_price': 2706.0,
+    'ask_size': 3,
+    'bid_exchange': 'P',
+    'bid_price': 2695.01,
+    'bid_size': 1,
+    'conditions': ['R'],
+    'symbol': 'GOOG',
+    'tape': 'C',
+    'timestamp': 1627683401028542464})
+quote Quote({   'ask_exchange': 'P',
+    'ask_price': 145.86,
+    'ask_size': 21,
+    'bid_exchange': 'P',
+    'bid_price': 145.84,
+    'bid_size': 17,
+    'conditions': ['R'],
+    'symbol': 'AAPL',
+    'tape': 'C',
+    'timestamp': 1627683415239956736})
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+quote Quote({   'ask_exchange': 'P',
+    'ask_price': 5.88,
+    'ask_size': 1,
+    'bid_exchange': 'P',
+    'bid_price': 5.83,
+    'bid_size': 25,
+    'conditions': ['R'],
+    'symbol': 'ERYP',
+    'tape': 'C',
+    'timestamp': 1627683421234189070})
+quote Quote({   'ask_exchange': 'P',
+    'ask_price': 5.85,
+    'ask_size': 2,
+    'bid_exchange': 'P',
+    'bid_price': 5.83,
+    'bid_size': 25,
+    'conditions': ['R'],
+    'symbol': 'ERYP',
+    'tape': 'C',
+    'timestamp': 1627683442961775104})
+quote Quote({   'ask_exchange': 'Q',
+    'ask_price': 5.88,
+    'ask_size': 1,
+    'bid_exchange': 'P',
+    'bid_price': 5.83,
+    'bid_size': 25,
+    'conditions': ['R'],
+    'symbol': 'ERYP',
+    'tape': 'C',
+    'timestamp': 1627683444123059456})
+quote Quote({   'ask_exchange': 'P',
+    'ask_price': 5.85,
+    'ask_size': 2,
+    'bid_exchange': 'P',
+    'bid_price': 5.83,
+    'bid_size': 25,
+    'conditions': ['R'],
+    'symbol': 'ERYP',
+    'tape': 'C',
+    'timestamp': 1627683444127598592})
+quote Quote({   'ask_exchange': 'Q',
+    'ask_price': 5.88,
+    'ask_size': 1,
+    'bid_exchange': 'P',
+    'bid_price': 5.83,
+    'bid_size': 25,
+    'conditions': ['R'],
+    'symbol': 'ERYP',
+    'tape': 'C',
+    'timestamp': 1627683445499340544})
+quote Quote({   'ask_exchange': 'P',
+    'ask_price': 145.86,
+    'ask_size': 21,
+    'bid_exchange': 'P',
+    'bid_price': 145.85,
+    'bid_size': 2,
+    'conditions': ['R'],
+    'symbol': 'AAPL',
+    'tape': 'C',
+    'timestamp': 1627683446906983936})
+quote Quote({   'ask_exchange': 'Q',
+    'ask_price': 5.88,
+    'ask_size': 1,
+    'bid_exchange': 'P',
+    'bid_price': 5.83,
+    'bid_size': 24,
+    'conditions': ['R'],
+    'symbol': 'ERYP',
+    'tape': 'C',
+    'timestamp': 1627683448698063360})
+quote Quote({   'ask_exchange': 'P',
+    'ask_price': 2706.0,
+    'ask_size': 3,
+    'bid_exchange': 'P',
+    'bid_price': 2695.15,
+    'bid_size': 1,
+    'conditions': ['R'],
+    'symbol': 'GOOG',
+    'tape': 'C',
+    'timestamp': 1627683460435541760})
+quote Quote({   'ask_exchange': 'P',
+    'ask_price': 145.86,
+    'ask_size': 21,
+    'bid_exchange': 'P',
+    'bid_price': 145.85,
+    'bid_size': 4,
+    'conditions': ['R'],
+    'symbol': 'AAPL',
+    'tape': 'C',
+    'timestamp': 1627683460990416896})
+quote Quote({   'ask_exchange': 'P',
+    'ask_price': 145.86,
+    'ask_size': 21,
+    'bid_exchange': 'P',
+    'bid_price': 145.85,
+    'bid_size': 3,
+    'conditions': ['R'],
+    'symbol': 'AAPL',
+    'tape': 'C',
+    'timestamp': 1627683473143617280})
+quote Quote({   'ask_exchange': 'P',
+    'ask_price': 2706.0,
+    'ask_size': 3,
+    'bid_exchange': 'Z',
+    'bid_price': 2695.16,
+    'bid_size': 1,
+    'conditions': ['R'],
+    'symbol': 'GOOG',
+    'tape': 'C',
+    'timestamp': 1627683475783182000})
+quote Quote({   'ask_exchange': 'P',
+    'ask_price': 5.86,
+    'ask_size': 6,
+    'bid_exchange': 'P',
+    'bid_price': 5.83,
+    'bid_size': 24,
+    'conditions': ['R'],
+    'symbol': 'ERYP',
+    'tape': 'C',
+    'timestamp': 1627683477189770496})
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+quote Quote({   'ask_exchange': 'P',
+    'ask_price': 5.86,
+    'ask_size': 6,
+    'bid_exchange': 'P',
+    'bid_price': 5.84,
+    'bid_size': 1,
+    'conditions': ['R'],
+    'symbol': 'ERYP',
+    'tape': 'C',
+    'timestamp': 1627683491511014656})
+quote Quote({   'ask_exchange': 'P',
+    'ask_price': 145.86,
+    'ask_size': 21,
+    'bid_exchange': 'P',
+    'bid_price': 145.85,
+    'bid_size': 4,
+    'conditions': ['R'],
+    'symbol': 'AAPL',
+    'tape': 'C',
+    'timestamp': 1627683503459731968})
+quote Quote({   'ask_exchange': 'P',
+    'ask_price': 5.84,
+    'ask_size': 2,
+    'bid_exchange': 'P',
+    'bid_price': 5.83,
+    'bid_size': 24,
+    'conditions': ['R'],
+    'symbol': 'ERYP',
+    'tape': 'C',
+    'timestamp': 1627683504845400064})
+quote Quote({   'ask_exchange': 'P',
+    'ask_price': 145.86,
+    'ask_size': 21,
+    'bid_exchange': 'P',
+    'bid_price': 145.85,
+    'bid_size': 3,
+    'conditions': ['R'],
+    'symbol': 'AAPL',
+    'tape': 'C',
+    'timestamp': 1627683508789687296})
+quote Quote({   'ask_exchange': 'P',
+    'ask_price': 145.86,
+    'ask_size': 20,
+    'bid_exchange': 'P',
+    'bid_price': 145.85,
+    'bid_size': 3,
+    'conditions': ['R'],
+    'symbol': 'AAPL',
+    'tape': 'C',
+    'timestamp': 1627683522490957568})
+quote Quote({   'ask_exchange': 'P',
+    'ask_price': 5.84,
+    'ask_size': 2,
+    'bid_exchange': 'P',
+    'bid_price': 5.83,
+    'bid_size': 22,
+    'conditions': ['R'],
+    'symbol': 'ERYP',
+    'tape': 'C',
+    'timestamp': 1627683532372530432})
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+quote Quote({   'ask_exchange': 'P',
+    'ask_price': 2706.0,
+    'ask_size': 3,
+    'bid_exchange': 'P',
+    'bid_price': 2695.15,
+    'bid_size': 1,
+    'conditions': ['R'],
+    'symbol': 'GOOG',
+    'tape': 'C',
+    'timestamp': 1627683549572280000})
+quote Quote({   'ask_exchange': 'P',
+    'ask_price': 145.86,
+    'ask_size': 20,
+    'bid_exchange': 'P',
+    'bid_price': 145.85,
+    'bid_size': 2,
+    'conditions': ['R'],
+    'symbol': 'AAPL',
+    'tape': 'C',
+    'timestamp': 1627683570530782976})
+quote Quote({   'ask_exchange': 'P',
+    'ask_price': 145.86,
+    'ask_size': 21,
+    'bid_exchange': 'P',
+    'bid_price': 145.85,
+    'bid_size': 2,
+    'conditions': ['R'],
+    'symbol': 'AAPL',
+    'tape': 'C',
+    'timestamp': 1627683591897683456})
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+quote Quote({   'ask_exchange': 'P',
+    'ask_price': 145.86,
+    'ask_size': 20,
+    'bid_exchange': 'P',
+    'bid_price': 145.85,
+    'bid_size': 2,
+    'conditions': ['R'],
+    'symbol': 'AAPL',
+    'tape': 'C',
+    'timestamp': 1627683600304890880})
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+quote Quote({   'ask_exchange': 'P',
+    'ask_price': 5.86,
+    'ask_size': 6,
+    'bid_exchange': 'P',
+    'bid_price': 5.83,
+    'bid_size': 22,
+    'conditions': ['R'],
+    'symbol': 'ERYP',
+    'tape': 'C',
+    'timestamp': 1627683625667974912})
+quote Quote({   'ask_exchange': 'P',
+    'ask_price': 5.86,
+    'ask_size': 6,
+    'bid_exchange': 'P',
+    'bid_price': 5.84,
+    'bid_size': 1,
+    'conditions': ['R'],
+    'symbol': 'ERYP',
+    'tape': 'C',
+    'timestamp': 1627683630919347712})
+quote Quote({   'ask_exchange': 'K',
+    'ask_price': 145.86,
+    'ask_size': 1,
+    'bid_exchange': 'P',
+    'bid_price': 145.85,
+    'bid_size': 2,
+    'conditions': ['R'],
+    'symbol': 'AAPL',
+    'tape': 'C',
+    'timestamp': 1627683632227900928})
+quote Quote({   'ask_exchange': 'P',
+    'ask_price': 2706.0,
+    'ask_size': 3,
+    'bid_exchange': 'Q',
+    'bid_price': 2695.0,
+    'bid_size': 1,
+    'conditions': ['R'],
+    'symbol': 'GOOG',
+    'tape': 'C',
+    'timestamp': 1627683644210991360})
+quote Quote({   'ask_exchange': 'P',
+    'ask_price': 145.86,
+    'ask_size': 2,
+    'bid_exchange': 'P',
+    'bid_price': 145.85,
+    'bid_size': 2,
+    'conditions': ['R'],
+    'symbol': 'AAPL',
+    'tape': 'C',
+    'timestamp': 1627683645592064768})
+quote Quote({   'ask_exchange': 'P',
+    'ask_price': 2706.0,
+    'ask_size': 3,
+    'bid_exchange': 'Y',
+    'bid_price': 2695.01,
+    'bid_size': 1,
+    'conditions': ['R'],
+    'symbol': 'GOOG',
+    'tape': 'C',
+    'timestamp': 1627683648338860000})
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+quote Quote({   'ask_exchange': 'P',
+    'ask_price': 5.86,
+    'ask_size': 6,
+    'bid_exchange': 'P',
+    'bid_price': 5.84,
+    'bid_size': 7,
+    'conditions': ['R'],
+    'symbol': 'ERYP',
+    'tape': 'C',
+    'timestamp': 1627683679196345344})
+quote Quote({   'ask_exchange': 'P',
+    'ask_price': 5.85,
+    'ask_size': 2,
+    'bid_exchange': 'P',
+    'bid_price': 5.84,
+    'bid_size': 7,
+    'conditions': ['R'],
+    'symbol': 'ERYP',
+    'tape': 'C',
+    'timestamp': 1627683698130721024})
+quote Quote({   'ask_exchange': 'P',
+    'ask_price': 2706.0,
+    'ask_size': 3,
+    'bid_exchange': 'Q',
+    'bid_price': 2695.0,
+    'bid_size': 1,
+    'conditions': ['R'],
+    'symbol': 'GOOG',
+    'tape': 'C',
+    'timestamp': 1627683712337479000})
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+quote Quote({   'ask_exchange': 'P',
+    'ask_price': 5.85,
+    'ask_size': 2,
+    'bid_exchange': 'P',
+    'bid_price': 5.84,
+    'bid_size': 117,
+    'conditions': ['R'],
+    'symbol': 'ERYP',
+    'tape': 'C',
+    'timestamp': 1627683721401853184})
+quote Quote({   'ask_exchange': 'Q',
+    'ask_price': 145.86,
+    'ask_size': 1,
+    'bid_exchange': 'P',
+    'bid_price': 145.85,
+    'bid_size': 2,
+    'conditions': ['R'],
+    'symbol': 'AAPL',
+    'tape': 'C',
+    'timestamp': 1627683729402279680})
+quote Quote({   'ask_exchange': 'P',
+    'ask_price': 145.86,
+    'ask_size': 1,
+    'bid_exchange': 'P',
+    'bid_price': 145.85,
+    'bid_size': 2,
+    'conditions': ['R'],
+    'symbol': 'AAPL',
+    'tape': 'C',
+    'timestamp': 1627683736520715422})
+quote Quote({   'ask_exchange': 'Q',
+    'ask_price': 145.85,
+    'ask_size': 3,
+    'bid_exchange': 'P',
+    'bid_price': 145.85,
+    'bid_size': 2,
+    'conditions': ['R'],
+    'symbol': 'AAPL',
+    'tape': 'C',
+    'timestamp': 1627683747559636279})
+quote Quote({   'ask_exchange': 'Q',
+    'ask_price': 145.85,
+    'ask_size': 3,
+    'bid_exchange': 'P',
+    'bid_price': 145.84,
+    'bid_size': 17,
+    'conditions': ['R'],
+    'symbol': 'AAPL',
+    'tape': 'C',
+    'timestamp': 1627683747560029440})
+quote Quote({   'ask_exchange': 'Q',
+    'ask_price': 145.85,
+    'ask_size': 1,
+    'bid_exchange': 'P',
+    'bid_price': 145.84,
+    'bid_size': 17,
+    'conditions': ['R'],
+    'symbol': 'AAPL',
+    'tape': 'C',
+    'timestamp': 1627683747560468522})
+quote Quote({   'ask_exchange': 'P',
+    'ask_price': 5.85,
+    'ask_size': 2,
+    'bid_exchange': 'P',
+    'bid_price': 5.84,
+    'bid_size': 118,
+    'conditions': ['R'],
+    'symbol': 'ERYP',
+    'tape': 'C',
+    'timestamp': 1627683748384265728})
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+quote Quote({   'ask_exchange': 'P',
+    'ask_price': 145.86,
+    'ask_size': 1,
+    'bid_exchange': 'P',
+    'bid_price': 145.84,
+    'bid_size': 17,
+    'conditions': ['R'],
+    'symbol': 'AAPL',
+    'tape': 'C',
+    'timestamp': 1627683781753951213})
+quote Quote({   'ask_exchange': 'P',
+    'ask_price': 2706.0,
+    'ask_size': 3,
+    'bid_exchange': 'P',
+    'bid_price': 2698.0,
+    'bid_size': 1,
+    'conditions': ['R'],
+    'symbol': 'GOOG',
+    'tape': 'C',
+    'timestamp': 1627683784602728960})
+quote Quote({   'ask_exchange': 'P',
+    'ask_price': 5.85,
+    'ask_size': 1,
+    'bid_exchange': 'P',
+    'bid_price': 5.84,
+    'bid_size': 118,
+    'conditions': ['R'],
+    'symbol': 'ERYP',
+    'tape': 'C',
+    'timestamp': 1627683820841699072})
+quote Quote({   'ask_exchange': 'P',
+    'ask_price': 145.86,
+    'ask_size': 1,
+    'bid_exchange': 'P',
+    'bid_price': 145.84,
+    'bid_size': 14,
+    'conditions': ['R'],
+    'symbol': 'AAPL',
+    'tape': 'C',
+    'timestamp': 1627683824208613888})
+quote Quote({   'ask_exchange': 'P',
+    'ask_price': 145.87,
+    'ask_size': 2,
+    'bid_exchange': 'P',
+    'bid_price': 145.86,
+    'bid_size': 15,
+    'conditions': ['R'],
+    'symbol': 'AAPL',
+    'tape': 'C',
+    'timestamp': 1627683837415790592})
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+quote Quote({   'ask_exchange': 'P',
+    'ask_price': 5.85,
+    'ask_size': 1,
+    'bid_exchange': 'P',
+    'bid_price': 5.84,
+    'bid_size': 117,
+    'conditions': ['R'],
+    'symbol': 'ERYP',
+    'tape': 'C',
+    'timestamp': 1627683844734210304})
+quote Quote({   'ask_exchange': 'P',
+    'ask_price': 5.85,
+    'ask_size': 1,
+    'bid_exchange': 'P',
+    'bid_price': 5.84,
+    'bid_size': 118,
+    'conditions': ['R'],
+    'symbol': 'ERYP',
+    'tape': 'C',
+    'timestamp': 1627683864805721856})
+quote Quote({   'ask_exchange': 'P',
+    'ask_price': 5.85,
+    'ask_size': 1,
+    'bid_exchange': 'P',
+    'bid_price': 5.84,
+    'bid_size': 117,
+    'conditions': ['R'],
+    'symbol': 'ERYP',
+    'tape': 'C',
+    'timestamp': 1627683873532216064})
+quote Quote({   'ask_exchange': 'P',
+    'ask_price': 5.85,
+    'ask_size': 1,
+    'bid_exchange': 'P',
+    'bid_price': 5.84,
+    'bid_size': 115,
+    'conditions': ['R'],
+    'symbol': 'ERYP',
+    'tape': 'C',
+    'timestamp': 1627683876681750272})
+quote Quote({   'ask_exchange': 'P',
+    'ask_price': 5.86,
+    'ask_size': 6,
+    'bid_exchange': 'P',
+    'bid_price': 5.84,
+    'bid_size': 115,
+    'conditions': ['R'],
+    'symbol': 'ERYP',
+    'tape': 'C',
+    'timestamp': 1627683899400529664})
+quote Quote({   'ask_exchange': 'P',
+    'ask_price': 5.86,
+    'ask_size': 3,
+    'bid_exchange': 'P',
+    'bid_price': 5.84,
+    'bid_size': 115,
+    'conditions': ['R'],
+    'symbol': 'ERYP',
+    'tape': 'C',
+    'timestamp': 1627683899401219584})
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+quote Quote({   'ask_exchange': 'P',
+    'ask_price': 145.87,
+    'ask_size': 2,
+    'bid_exchange': 'P',
+    'bid_price': 145.86,
+    'bid_size': 14,
+    'conditions': ['R'],
+    'symbol': 'AAPL',
+    'tape': 'C',
+    'timestamp': 1627683900531746816})
+quote Quote({   'ask_exchange': 'P',
+    'ask_price': 5.88,
+    'ask_size': 1,
+    'bid_exchange': 'P',
+    'bid_price': 5.84,
+    'bid_size': 115,
+    'conditions': ['R'],
+    'symbol': 'ERYP',
+    'tape': 'C',
+    'timestamp': 1627683901433884928})
+quote Quote({   'ask_exchange': 'P',
+    'ask_price': 5.9,
+    'ask_size': 2,
+    'bid_exchange': 'P',
+    'bid_price': 5.84,
+    'bid_size': 115,
+    'conditions': ['R'],
+    'symbol': 'ERYP',
+    'tape': 'C',
+    'timestamp': 1627683901435921920})
+quote Quote({   'ask_exchange': 'P',
+    'ask_price': 145.87,
+    'ask_size': 1,
+    'bid_exchange': 'P',
+    'bid_price': 145.86,
+    'bid_size': 14,
+    'conditions': ['R'],
+    'symbol': 'AAPL',
+    'tape': 'C',
+    'timestamp': 1627683916206581248})
+quote Quote({   'ask_exchange': 'P',
+    'ask_price': 5.9,
+    'ask_size': 1,
+    'bid_exchange': 'P',
+    'bid_price': 5.84,
+    'bid_size': 115,
+    'conditions': ['R'],
+    'symbol': 'ERYP',
+    'tape': 'C',
+    'timestamp': 1627683940640241920})
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+quote Quote({   'ask_exchange': 'P',
+    'ask_price': 5.89,
+    'ask_size': 1,
+    'bid_exchange': 'P',
+    'bid_price': 5.84,
+    'bid_size': 115,
+    'conditions': ['R'],
+    'symbol': 'ERYP',
+    'tape': 'C',
+    'timestamp': 1627683982240764672})
+quote Quote({   'ask_exchange': 'P',
+    'ask_price': 5.89,
+    'ask_size': 7,
+    'bid_exchange': 'P',
+    'bid_price': 5.84,
+    'bid_size': 115,
+    'conditions': ['R'],
+    'symbol': 'ERYP',
+    'tape': 'C',
+    'timestamp': 1627683983943668480})
+quote Quote({   'ask_exchange': 'P',
+    'ask_price': 5.89,
+    'ask_size': 7,
+    'bid_exchange': 'Q',
+    'bid_price': 5.86,
+    'bid_size': 16,
+    'conditions': ['R'],
+    'symbol': 'ERYP',
+    'tape': 'C',
+    'timestamp': 1627684005734765189})
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+quote Quote({   'ask_exchange': 'P',
+    'ask_price': 5.89,
+    'ask_size': 2,
+    'bid_exchange': 'Q',
+    'bid_price': 5.86,
+    'bid_size': 16,
+    'conditions': ['R'],
+    'symbol': 'ERYP',
+    'tape': 'C',
+    'timestamp': 1627684024185769728})
+quote Quote({   'ask_exchange': 'P',
+    'ask_price': 5.89,
+    'ask_size': 1,
+    'bid_exchange': 'Q',
+    'bid_price': 5.86,
+    'bid_size': 16,
+    'conditions': ['R'],
+    'symbol': 'ERYP',
+    'tape': 'C',
+    'timestamp': 1627684025288680448})
+quote Quote({   'ask_exchange': 'P',
+    'ask_price': 5.9,
+    'ask_size': 3,
+    'bid_exchange': 'Q',
+    'bid_price': 5.86,
+    'bid_size': 16,
+    'conditions': ['R'],
+    'symbol': 'ERYP',
+    'tape': 'C',
+    'timestamp': 1627684025903303680})
+quote Quote({   'ask_exchange': 'P',
+    'ask_price': 5.9,
+    'ask_size': 2,
+    'bid_exchange': 'Q',
+    'bid_price': 5.86,
+    'bid_size': 16,
+    'conditions': ['R'],
+    'symbol': 'ERYP',
+    'tape': 'C',
+    'timestamp': 1627684026250516736})
+quote Quote({   'ask_exchange': 'P',
+    'ask_price': 5.9,
+    'ask_size': 1,
+    'bid_exchange': 'Q',
+    'bid_price': 5.86,
+    'bid_size': 16,
+    'conditions': ['R'],
+    'symbol': 'ERYP',
+    'tape': 'C',
+    'timestamp': 1627684026801049600})
+quote Quote({   'ask_exchange': 'P',
+    'ask_price': 5.92,
+    'ask_size': 4,
+    'bid_exchange': 'Q',
+    'bid_price': 5.86,
+    'bid_size': 16,
+    'conditions': ['R'],
+    'symbol': 'ERYP',
+    'tape': 'C',
+    'timestamp': 1627684027812034304})
+quote Quote({   'ask_exchange': 'P',
+    'ask_price': 5.92,
+    'ask_size': 4,
+    'bid_exchange': 'Z',
+    'bid_price': 5.9,
+    'bid_size': 1,
+    'conditions': ['R'],
+    'symbol': 'ERYP',
+    'tape': 'C',
+    'timestamp': 1627684028161644000})
+quote Quote({   'ask_exchange': 'P',
+    'ask_price': 5.92,
+    'ask_size': 4,
+    'bid_exchange': 'Q',
+    'bid_price': 5.86,
+    'bid_size': 16,
+    'conditions': ['R'],
+    'symbol': 'ERYP',
+    'tape': 'C',
+    'timestamp': 1627684028162265000})
+quote Quote({   'ask_exchange': 'Q',
+    'ask_price': 145.89,
+    'ask_size': 21,
+    'bid_exchange': 'P',
+    'bid_price': 145.86,
+    'bid_size': 14,
+    'conditions': ['R'],
+    'symbol': 'AAPL',
+    'tape': 'C',
+    'timestamp': 1627684028176834304})
+quote Quote({   'ask_exchange': 'P',
+    'ask_price': 5.92,
+    'ask_size': 4,
+    'bid_exchange': 'P',
+    'bid_price': 5.9,
+    'bid_size': 1,
+    'conditions': ['R'],
+    'symbol': 'ERYP',
+    'tape': 'C',
+    'timestamp': 1627684028485573888})
+quote Quote({   'ask_exchange': 'P',
+    'ask_price': 5.94,
+    'ask_size': 3,
+    'bid_exchange': 'P',
+    'bid_price': 5.9,
+    'bid_size': 1,
+    'conditions': ['R'],
+    'symbol': 'ERYP',
+    'tape': 'C',
+    'timestamp': 1627684031053141760})
+quote Quote({   'ask_exchange': 'P',
+    'ask_price': 5.94,
+    'ask_size': 5,
+    'bid_exchange': 'P',
+    'bid_price': 5.9,
+    'bid_size': 1,
+    'conditions': ['R'],
+    'symbol': 'ERYP',
+    'tape': 'C',
+    'timestamp': 1627684032144214528})
+quote Quote({   'ask_exchange': 'P',
+    'ask_price': 5.94,
+    'ask_size': 5,
+    'bid_exchange': 'Q',
+    'bid_price': 5.86,
+    'bid_size': 16,
+    'conditions': ['R'],
+    'symbol': 'ERYP',
+    'tape': 'C',
+    'timestamp': 1627684032265116160})
+quote Quote({   'ask_exchange': 'K',
+    'ask_price': 5.89,
+    'ask_size': 15,
+    'bid_exchange': 'Q',
+    'bid_price': 5.86,
+    'bid_size': 16,
+    'conditions': ['R'],
+    'symbol': 'ERYP',
+    'tape': 'C',
+    'timestamp': 1627684032951706000})
+quote Quote({   'ask_exchange': 'K',
+    'ask_price': 5.89,
+    'ask_size': 10,
+    'bid_exchange': 'Q',
+    'bid_price': 5.86,
+    'bid_size': 16,
+    'conditions': ['R'],
+    'symbol': 'ERYP',
+    'tape': 'C',
+    'timestamp': 1627684039137166000})
+quote Quote({   'ask_exchange': 'K',
+    'ask_price': 5.89,
+    'ask_size': 10,
+    'bid_exchange': 'P',
+    'bid_price': 5.84,
+    'bid_size': 115,
+    'conditions': ['R'],
+    'symbol': 'ERYP',
+    'tape': 'C',
+    'timestamp': 1627684045199209210})
+quote Quote({   'ask_exchange': 'P',
+    'ask_price': 5.94,
+    'ask_size': 5,
+    'bid_exchange': 'P',
+    'bid_price': 5.84,
+    'bid_size': 115,
+    'conditions': ['R'],
+    'symbol': 'ERYP',
+    'tape': 'C',
+    'timestamp': 1627684045202559000})
+quote Quote({   'ask_exchange': 'P',
+    'ask_price': 5.94,
+    'ask_size': 5,
+    'bid_exchange': 'Q',
+    'bid_price': 5.89,
+    'bid_size': 5,
+    'conditions': ['R'],
+    'symbol': 'ERYP',
+    'tape': 'C',
+    'timestamp': 1627684045207384667})
+quote Quote({   'ask_exchange': 'P',
+    'ask_price': 5.92,
+    'ask_size': 1,
+    'bid_exchange': 'Q',
+    'bid_price': 5.89,
+    'bid_size': 5,
+    'conditions': ['R'],
+    'symbol': 'ERYP',
+    'tape': 'C',
+    'timestamp': 1627684062872317184})
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+quote Quote({   'ask_exchange': 'P',
+    'ask_price': 5.92,
+    'ask_size': 1,
+    'bid_exchange': 'P',
+    'bid_price': 5.9,
+    'bid_size': 2,
+    'conditions': ['R'],
+    'symbol': 'ERYP',
+    'tape': 'C',
+    'timestamp': 1627684082615426304})
+quote Quote({   'ask_exchange': 'Q',
+    'ask_price': 145.89,
+    'ask_size': 21,
+    'bid_exchange': 'P',
+    'bid_price': 145.86,
+    'bid_size': 13,
+    'conditions': ['R'],
+    'symbol': 'AAPL',
+    'tape': 'C',
+    'timestamp': 1627684092885303040})
+quote Quote({   'ask_exchange': 'Q',
+    'ask_price': 145.89,
+    'ask_size': 21,
+    'bid_exchange': 'P',
+    'bid_price': 145.86,
+    'bid_size': 12,
+    'conditions': ['R'],
+    'symbol': 'AAPL',
+    'tape': 'C',
+    'timestamp': 1627684101588231680})
+quote Quote({   'ask_exchange': 'P',
+    'ask_price': 5.92,
+    'ask_size': 1,
+    'bid_exchange': 'Q',
+    'bid_price': 5.89,
+    'bid_size': 5,
+    'conditions': ['R'],
+    'symbol': 'ERYP',
+    'tape': 'C',
+    'timestamp': 1627684122390449664})
+quote Quote({   'ask_exchange': 'P',
+    'ask_price': 5.9,
+    'ask_size': 9,
+    'bid_exchange': 'Q',
+    'bid_price': 5.89,
+    'bid_size': 5,
+    'conditions': ['R'],
+    'symbol': 'ERYP',
+    'tape': 'C',
+    'timestamp': 1627684122396112640})
+quote Quote({   'ask_exchange': 'P',
+    'ask_price': 5.92,
+    'ask_size': 1,
+    'bid_exchange': 'Q',
+    'bid_price': 5.89,
+    'bid_size': 5,
+    'conditions': ['R'],
+    'symbol': 'ERYP',
+    'tape': 'C',
+    'timestamp': 1627684128072807424})
+quote Quote({   'ask_exchange': 'P',
+    'ask_price': 5.92,
+    'ask_size': 1,
+    'bid_exchange': 'P',
+    'bid_price': 5.84,
+    'bid_size': 116,
+    'conditions': ['R'],
+    'symbol': 'ERYP',
+    'tape': 'C',
+    'timestamp': 1627684128079281286})
+quote Quote({   'ask_exchange': 'P',
+    'ask_price': 5.92,
+    'ask_size': 1,
+    'bid_exchange': 'P',
+    'bid_price': 5.84,
+    'bid_size': 115,
+    'conditions': ['R'],
+    'symbol': 'ERYP',
+    'tape': 'C',
+    'timestamp': 1627684128079499008})
+quote Quote({   'ask_exchange': 'P',
+    'ask_price': 5.89,
+    'ask_size': 3,
+    'bid_exchange': 'P',
+    'bid_price': 5.84,
+    'bid_size': 115,
+    'conditions': ['R'],
+    'symbol': 'ERYP',
+    'tape': 'C',
+    'timestamp': 1627684128085600768})
+quote Quote({   'ask_exchange': 'P',
+    'ask_price': 5.92,
+    'ask_size': 1,
+    'bid_exchange': 'P',
+    'bid_price': 5.84,
+    'bid_size': 115,
+    'conditions': ['R'],
+    'symbol': 'ERYP',
+    'tape': 'C',
+    'timestamp': 1627684131357639680})
+quote Quote({   'ask_exchange': 'P',
+    'ask_price': 5.92,
+    'ask_size': 11,
+    'bid_exchange': 'P',
+    'bid_price': 5.84,
+    'bid_size': 115,
+    'conditions': ['R'],
+    'symbol': 'ERYP',
+    'tape': 'C',
+    'timestamp': 1627684132669772032})
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+quote Quote({   'ask_exchange': 'P',
+    'ask_price': 5.92,
+    'ask_size': 11,
+    'bid_exchange': 'P',
+    'bid_price': 5.89,
+    'bid_size': 6,
+    'conditions': ['R'],
+    'symbol': 'ERYP',
+    'tape': 'C',
+    'timestamp': 1627684151889706752})
+quote Quote({   'ask_exchange': 'P',
+    'ask_price': 5.92,
+    'ask_size': 11,
+    'bid_exchange': 'P',
+    'bid_price': 5.89,
+    'bid_size': 7,
+    'conditions': ['R'],
+    'symbol': 'ERYP',
+    'tape': 'C',
+    'timestamp': 1627684158300920064})
+quote Quote({   'ask_exchange': 'P',
+    'ask_price': 5.91,
+    'ask_size': 1,
+    'bid_exchange': 'P',
+    'bid_price': 5.89,
+    'bid_size': 7,
+    'conditions': ['R'],
+    'symbol': 'ERYP',
+    'tape': 'C',
+    'timestamp': 1627684173779155200})
+quote Quote({   'ask_exchange': 'P',
+    'ask_price': 5.91,
+    'ask_size': 1,
+    'bid_exchange': 'P',
+    'bid_price': 5.89,
+    'bid_size': 4,
+    'conditions': ['R'],
+    'symbol': 'ERYP',
+    'tape': 'C',
+    'timestamp': 1627684180874542080})
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+quote Quote({   'ask_exchange': 'P',
+    'ask_price': 5.91,
+    'ask_size': 1,
+    'bid_exchange': 'P',
+    'bid_price': 5.89,
+    'bid_size': 3,
+    'conditions': ['R'],
+    'symbol': 'ERYP',
+    'tape': 'C',
+    'timestamp': 1627684206482376960})
+quote Quote({   'ask_exchange': 'P',
+    'ask_price': 5.91,
+    'ask_size': 1,
+    'bid_exchange': 'P',
+    'bid_price': 5.88,
+    'bid_size': 1,
+    'conditions': ['R'],
+    'symbol': 'ERYP',
+    'tape': 'C',
+    'timestamp': 1627684226413150720})
+quote Quote({   'ask_exchange': 'P',
+    'ask_price': 5.91,
+    'ask_size': 1,
+    'bid_exchange': 'P',
+    'bid_price': 5.85,
+    'bid_size': 2,
+    'conditions': ['R'],
+    'symbol': 'ERYP',
+    'tape': 'C',
+    'timestamp': 1627684229214931200})
+quote Quote({   'ask_exchange': 'P',
+    'ask_price': 5.89,
+    'ask_size': 32,
+    'bid_exchange': 'P',
+    'bid_price': 5.85,
+    'bid_size': 2,
+    'conditions': ['R'],
+    'symbol': 'ERYP',
+    'tape': 'C',
+    'timestamp': 1627684229216638976})
+quote Quote({   'ask_exchange': 'P',
+    'ask_price': 5.89,
+    'ask_size': 32,
+    'bid_exchange': 'P',
+    'bid_price': 5.85,
+    'bid_size': 1,
+    'conditions': ['R'],
+    'symbol': 'ERYP',
+    'tape': 'C',
+    'timestamp': 1627684252401443072})
+quote Quote({   'ask_exchange': 'P',
+    'ask_price': 5.89,
+    'ask_size': 33,
+    'bid_exchange': 'P',
+    'bid_price': 5.85,
+    'bid_size': 1,
+    'conditions': ['R'],
+    'symbol': 'ERYP',
+    'tape': 'C',
+    'timestamp': 1627684258368067328})
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+quote Quote({   'ask_exchange': 'P',
+    'ask_price': 5.91,
+    'ask_size': 1,
+    'bid_exchange': 'P',
+    'bid_price': 5.85,
+    'bid_size': 1,
+    'conditions': ['R'],
+    'symbol': 'ERYP',
+    'tape': 'C',
+    'timestamp': 1627684272976729600})
+quote Quote({   'ask_exchange': 'P',
+    'ask_price': 5.88,
+    'ask_size': 32,
+    'bid_exchange': 'P',
+    'bid_price': 5.85,
+    'bid_size': 1,
+    'conditions': ['R'],
+    'symbol': 'ERYP',
+    'tape': 'C',
+    'timestamp': 1627684272981548288})
+quote Quote({   'ask_exchange': 'P',
+    'ask_price': 5.88,
+    'ask_size': 32,
+    'bid_exchange': 'P',
+    'bid_price': 5.84,
+    'bid_size': 116,
+    'conditions': ['R'],
+    'symbol': 'ERYP',
+    'tape': 'C',
+    'timestamp': 1627684278329506304})
+quote Quote({   'ask_exchange': 'P',
+    'ask_price': 5.87,
+    'ask_size': 4,
+    'bid_exchange': 'P',
+    'bid_price': 5.84,
+    'bid_size': 116,
+    'conditions': ['R'],
+    'symbol': 'ERYP',
+    'tape': 'C',
+    'timestamp': 1627684296509402368})
+quote Quote({   'ask_exchange': 'P',
+    'ask_price': 5.86,
+    'ask_size': 32,
+    'bid_exchange': 'P',
+    'bid_price': 5.84,
+    'bid_size': 116,
+    'conditions': ['R'],
+    'symbol': 'ERYP',
+    'tape': 'C',
+    'timestamp': 1627684307631364608})
+quote Quote({   'ask_exchange': 'Q',
+    'ask_price': 145.89,
+    'ask_size': 21,
+    'bid_exchange': 'P',
+    'bid_price': 145.86,
+    'bid_size': 11,
+    'conditions': ['R'],
+    'symbol': 'AAPL',
+    'tape': 'C',
+    'timestamp': 1627684315974797568})
+quote Quote({   'ask_exchange': 'P',
+    'ask_price': 5.86,
+    'ask_size': 32,
+    'bid_exchange': 'P',
+    'bid_price': 5.84,
+    'bid_size': 99,
+    'conditions': ['R'],
+    'symbol': 'ERYP',
+    'tape': 'C',
+    'timestamp': 1627684319165087488})
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+quote Quote({   'ask_exchange': 'P',
+    'ask_price': 5.86,
+    'ask_size': 32,
+    'bid_exchange': 'P',
+    'bid_price': 5.84,
+    'bid_size': 85,
+    'conditions': ['R'],
+    'symbol': 'ERYP',
+    'tape': 'C',
+    'timestamp': 1627684323748685568})
+quote Quote({   'ask_exchange': 'P',
+    'ask_price': 5.91,
+    'ask_size': 1,
+    'bid_exchange': 'P',
+    'bid_price': 5.84,
+    'bid_size': 85,
+    'conditions': ['R'],
+    'symbol': 'ERYP',
+    'tape': 'C',
+    'timestamp': 1627684328242491392})
+quote Quote({   'ask_exchange': 'P',
+    'ask_price': 5.87,
+    'ask_size': 32,
+    'bid_exchange': 'P',
+    'bid_price': 5.84,
+    'bid_size': 85,
+    'conditions': ['R'],
+    'symbol': 'ERYP',
+    'tape': 'C',
+    'timestamp': 1627684328247390720})
+quote Quote({   'ask_exchange': 'P',
+    'ask_price': 5.91,
+    'ask_size': 1,
+    'bid_exchange': 'P',
+    'bid_price': 5.84,
+    'bid_size': 85,
+    'conditions': ['R'],
+    'symbol': 'ERYP',
+    'tape': 'C',
+    'timestamp': 1627684360051665920})
+quote Quote({   'ask_exchange': 'P',
+    'ask_price': 5.91,
+    'ask_size': 1,
+    'bid_exchange': 'P',
+    'bid_price': 5.84,
+    'bid_size': 84,
+    'conditions': ['R'],
+    'symbol': 'ERYP',
+    'tape': 'C',
+    'timestamp': 1627684378028104448})
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+quote Quote({   'ask_exchange': 'P',
+    'ask_price': 5.91,
+    'ask_size': 1,
+    'bid_exchange': 'P',
+    'bid_price': 5.84,
+    'bid_size': 83,
+    'conditions': ['R'],
+    'symbol': 'ERYP',
+    'tape': 'C',
+    'timestamp': 1627684380399929344})
+quote Quote({   'ask_exchange': 'P',
+    'ask_price': 5.91,
+    'ask_size': 1,
+    'bid_exchange': 'P',
+    'bid_price': 5.85,
+    'bid_size': 1,
+    'conditions': ['R'],
+    'symbol': 'ERYP',
+    'tape': 'C',
+    'timestamp': 1627684410734764544})
+quote Quote({   'ask_exchange': 'P',
+    'ask_price': 5.91,
+    'ask_size': 1,
+    'bid_exchange': 'P',
+    'bid_price': 5.85,
+    'bid_size': 11,
+    'conditions': ['R'],
+    'symbol': 'ERYP',
+    'tape': 'C',
+    'timestamp': 1627684434841173248})
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+quote Quote({   'ask_exchange': 'Q',
+    'ask_price': 145.89,
+    'ask_size': 21,
+    'bid_exchange': 'P',
+    'bid_price': 145.86,
+    'bid_size': 8,
+    'conditions': ['R'],
+    'symbol': 'AAPL',
+    'tape': 'C',
+    'timestamp': 1627684455871589888})
+quote Quote({   'ask_exchange': 'Q',
+    'ask_price': 145.89,
+    'ask_size': 21,
+    'bid_exchange': 'P',
+    'bid_price': 145.86,
+    'bid_size': 6,
+    'conditions': ['R'],
+    'symbol': 'AAPL',
+    'tape': 'C',
+    'timestamp': 1627684462469976064})
+quote Quote({   'ask_exchange': 'P',
+    'ask_price': 5.91,
+    'ask_size': 2,
+    'bid_exchange': 'P',
+    'bid_price': 5.85,
+    'bid_size': 11,
+    'conditions': ['R'],
+    'symbol': 'ERYP',
+    'tape': 'C',
+    'timestamp': 1627684480737540096})
+quote Quote({   'ask_exchange': 'Q',
+    'ask_price': 145.89,
+    'ask_size': 21,
+    'bid_exchange': 'P',
+    'bid_price': 145.86,
+    'bid_size': 4,
+    'conditions': ['R'],
+    'symbol': 'AAPL',
+    'tape': 'C',
+    'timestamp': 1627684484118947840})
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+quote Quote({   'ask_exchange': 'P',
+    'ask_price': 145.88,
+    'ask_size': 1,
+    'bid_exchange': 'P',
+    'bid_price': 145.86,
+    'bid_size': 4,
+    'conditions': ['R'],
+    'symbol': 'AAPL',
+    'tape': 'C',
+    'timestamp': 1627684500298084096})
+quote Quote({   'ask_exchange': 'P',
+    'ask_price': 5.91,
+    'ask_size': 2,
+    'bid_exchange': 'P',
+    'bid_price': 5.88,
+    'bid_size': 1,
+    'conditions': ['R'],
+    'symbol': 'ERYP',
+    'tape': 'C',
+    'timestamp': 1627684514899151360})
+quote Quote({   'ask_exchange': 'P',
+    'ask_price': 145.87,
+    'ask_size': 1,
+    'bid_exchange': 'P',
+    'bid_price': 145.84,
+    'bid_size': 14,
+    'conditions': ['R'],
+    'symbol': 'AAPL',
+    'tape': 'C',
+    'timestamp': 1627684532049149696})
+quote Quote({   'ask_exchange': 'P',
+    'ask_price': 145.86,
+    'ask_size': 10,
+    'bid_exchange': 'P',
+    'bid_price': 145.84,
+    'bid_size': 14,
+    'conditions': ['R'],
+    'symbol': 'AAPL',
+    'tape': 'C',
+    'timestamp': 1627684539521633280})
+quote Quote({   'ask_exchange': 'P',
+    'ask_price': 145.86,
+    'ask_size': 11,
+    'bid_exchange': 'P',
+    'bid_price': 145.84,
+    'bid_size': 14,
+    'conditions': ['R'],
+    'symbol': 'AAPL',
+    'tape': 'C',
+    'timestamp': 1627684542902723840})
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+quote Quote({   'ask_exchange': 'P',
+    'ask_price': 5.91,
+    'ask_size': 1,
+    'bid_exchange': 'P',
+    'bid_price': 5.88,
+    'bid_size': 1,
+    'conditions': ['R'],
+    'symbol': 'ERYP',
+    'tape': 'C',
+    'timestamp': 1627684563871280896})
+quote Quote({   'ask_exchange': 'P',
+    'ask_price': 145.86,
+    'ask_size': 10,
+    'bid_exchange': 'P',
+    'bid_price': 145.84,
+    'bid_size': 14,
+    'conditions': ['R'],
+    'symbol': 'AAPL',
+    'tape': 'C',
+    'timestamp': 1627684564871578368})
+quote Quote({   'ask_exchange': 'P',
+    'ask_price': 145.86,
+    'ask_size': 11,
+    'bid_exchange': 'P',
+    'bid_price': 145.84,
+    'bid_size': 14,
+    'conditions': ['R'],
+    'symbol': 'AAPL',
+    'tape': 'C',
+    'timestamp': 1627684564873824768})
+quote Quote({   'ask_exchange': 'P',
+    'ask_price': 5.92,
+    'ask_size': 11,
+    'bid_exchange': 'P',
+    'bid_price': 5.88,
+    'bid_size': 1,
+    'conditions': ['R'],
+    'symbol': 'ERYP',
+    'tape': 'C',
+    'timestamp': 1627684573808386304})
+quote Quote({   'ask_exchange': 'P',
+    'ask_price': 5.91,
+    'ask_size': 1,
+    'bid_exchange': 'P',
+    'bid_price': 5.88,
+    'bid_size': 1,
+    'conditions': ['R'],
+    'symbol': 'ERYP',
+    'tape': 'C',
+    'timestamp': 1627684588776804864})
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+quote Quote({   'ask_exchange': 'P',
+    'ask_price': 2706.0,
+    'ask_size': 3,
+    'bid_exchange': 'Q',
+    'bid_price': 2695.0,
+    'bid_size': 1,
+    'conditions': ['R'],
+    'symbol': 'GOOG',
+    'tape': 'C',
+    'timestamp': 1627684631639483392})
+quote Quote({   'ask_exchange': 'P',
+    'ask_price': 2706.0,
+    'ask_size': 3,
+    'bid_exchange': 'P',
+    'bid_price': 2699.0,
+    'bid_size': 1,
+    'conditions': ['R'],
+    'symbol': 'GOOG',
+    'tape': 'C',
+    'timestamp': 1627684631678396416})
+quote Quote({   'ask_exchange': 'P',
+    'ask_price': 5.91,
+    'ask_size': 1,
+    'bid_exchange': 'P',
+    'bid_price': 5.9,
+    'bid_size': 1,
+    'conditions': ['R'],
+    'symbol': 'ERYP',
+    'tape': 'C',
+    'timestamp': 1627684633324517632})
+quote Quote({   'ask_exchange': 'P',
+    'ask_price': 145.86,
+    'ask_size': 10,
+    'bid_exchange': 'P',
+    'bid_price': 145.84,
+    'bid_size': 14,
+    'conditions': ['R'],
+    'symbol': 'AAPL',
+    'tape': 'C',
+    'timestamp': 1627684647265340672})
+quote Quote({   'ask_exchange': 'P',
+    'ask_price': 5.91,
+    'ask_size': 1,
+    'bid_exchange': 'P',
+    'bid_price': 5.88,
+    'bid_size': 1,
+    'conditions': ['R'],
+    'symbol': 'ERYP',
+    'tape': 'C',
+    'timestamp': 1627684667886507520})
+quote Quote({   'ask_exchange': 'P',
+    'ask_price': 5.9,
+    'ask_size': 24,
+    'bid_exchange': 'P',
+    'bid_price': 5.88,
+    'bid_size': 1,
+    'conditions': ['R'],
+    'symbol': 'ERYP',
+    'tape': 'C',
+    'timestamp': 1627684670609859584})
+quote Quote({   'ask_exchange': 'P',
+    'ask_price': 2706.0,
+    'ask_size': 3,
+    'bid_exchange': 'P',
+    'bid_price': 2699.0,
+    'bid_size': 2,
+    'conditions': ['R'],
+    'symbol': 'GOOG',
+    'tape': 'C',
+    'timestamp': 1627684672072342016})
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+keyboard interrupt, bye

@@ -1,0 +1,53 @@
+{
+    "version": 1,
+    "parameters": [
+        {
+            "timeframe": "1min",
+            "data": {
+                "9ema": 1,
+                "20ema": 2,
+                "50ema": 1,
+                "200ema": 1,
+                "200sma": 0,
+                "support": 10,
+                "resistance": -2,
+                "gapfill": 7,
+                "breakout": 4,
+                "short_float": 2,
+                "short_ratio": 3
+            }
+        },
+        {
+            "timeframe": "5min",
+            "data": {
+                "9ema": 1,
+                "20ema": 2,
+                "50ema": 1,
+                "200ema": 1,
+                "200sma": 0,
+                "support": 10,
+                "resistance": -2,
+                "gapfill": 7,
+                "breakout": 4,
+                "short_float": 2,
+                "short_ratio": 3
+            }
+        },
+        {
+            "timeframe": "10min",
+            "data": {
+                "9ema": 1,
+                "20ema": 2,
+                "50ema": 1,
+                "200ema": 1,
+                "200sma": 0,
+                "support": 10,
+                "resistance": -2,
+                "gapfill": 7,
+                "breakout": 4,
+                "short_float": 2,
+                "short_ratio": 3
+            }
+        }
+    ]
+}
