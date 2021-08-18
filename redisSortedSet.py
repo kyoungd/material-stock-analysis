@@ -1,15 +1,11 @@
 import redis
-from redisUtil import KeyName
+from redisUtil import KeyName, RedisAccess
 
 
 class RedisSortedSet:
 
     def __init__(self, key, r: redis = None, callback=None):
-        if (r == None):
-            self.redis = redis.StrictRedis(
-                host='127.0.0.1', port=6379, db=0)
-        else:
-            self.redis = r
+        self.redis = RedisAccess.connection(r)
         self.key = key
         self.callback = callback
 
@@ -44,7 +40,7 @@ class LatestPrices(RedisSortedSet):
 
 class ThreeBarPlayScore(RedisSortedSet):
     def __init__(self, r=None, callback=None):
-        lastPriceKey = KeyName.KEY_THREEBARSCORE.value
+        lastPriceKey = KeyName.KEY_THREEBARSCORE
         RedisSortedSet.__init__(self, lastPriceKey, r, callback)
 
     def getAll(self, low=0, high=100):

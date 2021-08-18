@@ -7,7 +7,7 @@
 import alpaca_trade_api as alpaca
 from alpaca_trade_api.rest import TimeFrame
 from datetime import datetime, timedelta
-from redisUtil import TimeStamp, bar_key, RedisTimeFrame, AlpacaAccess
+from redisUtil import TimeStamp, bar_key, RedisTimeFrame, AlpacaAccess, TimeSeriesAccess
 from redistimeseries.client import Client
 
 
@@ -18,12 +18,8 @@ from redistimeseries.client import Client
 class CreateRedisStockTimeSeriesKeys:
 
     def __init__(self, rts=None):
-        if (rts == None):
-            self.rts = Client(host='127.0.0.1', port=6379)
-        else:
-            self.rts = rts
-        api = alpaca.REST(
-            AlpacaAccess.ALPACA_API_KEY, AlpacaAccess.ALPACA_SECRET_KEY, AlpacaAccess.ALPACA_API_URL)
+        self.rts = TimeSeriesAccess.connection(rts)
+        api = AlpacaAccess.connection()
         self.assets = api.list_assets(status='active')
 
     def _createSymbolItem(self, rts, symbol, suffix, aggr, index, description, companyName, timeframe):

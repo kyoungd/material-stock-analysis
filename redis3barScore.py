@@ -57,7 +57,7 @@ def testGetStackData(symbol):
         'firstPrice': 13.50,
         'secondPrice': 14.00,
         'thirdPrice': 13.00,
-        'timeframe': RedisTimeFrame.MIN2.value
+        'timeframe': RedisTimeFrame.MIN2
     }}
 
 

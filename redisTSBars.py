@@ -6,7 +6,7 @@
 
 from alpaca_trade_api.rest import TimeFrame
 from datetime import datetime, timedelta
-from redisUtil import bar_key, TimeStamp, RedisTimeFrame
+from redisUtil import bar_key, TimeStamp, RedisTimeFrame, TimeSeriesAccess
 from redistimeseries.client import Client
 
 
@@ -16,10 +16,7 @@ from redistimeseries.client import Client
 
 class RealTimeBars:
     def __init__(self, rts=None):
-        if (rts == None):
-            self.rts = Client(host='127.0.0.1', port=6379)
-        else:
-            self.rts = rts
+        self.rts = TimeSeriesAccess.connection(rts)
 
     def _get_bar_list(self, data, timeframe):
         ts = data['timestamp']

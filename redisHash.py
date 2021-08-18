@@ -1,16 +1,12 @@
 import redis
 import json
-from redisUtil import KeyName
+from redisUtil import KeyName, RedisAccess
 
 
 class RedisHash:
 
     def __init__(self, key, r=None, callback=None):
-        if (r == None):
-            self.redis = redis.StrictRedis(
-                host='127.0.0.1', port=6379, db=0)
-        else:
-            self.redis = r
+        self.redis = RedisAccess.connection(r)
         self.callback = callback
         self.key = key
 
@@ -43,7 +39,7 @@ class RedisHash:
 
 class ThreeBarPlayStack(RedisHash):
     def __init__(self, r=None, callback=None):
-        self.key = KeyName.KEY_THREEBARSTACK.value
+        self.key = KeyName.KEY_THREEBARSTACK
         RedisHash.__init__(self, self.key, r, callback)
 
 

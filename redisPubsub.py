@@ -2,20 +2,16 @@ import threading
 import redis
 import json
 from redisTSBars import RealTimeBars
-from redisUtil import KeyName
+from redisUtil import KeyName, RedisAccess
 from redisSortedSet import ThreeBarPlayScore
 
 
 class RedisSubscriber(threading.Thread):
     def __init__(self, channels, r=None, callback=None):
         threading.Thread.__init__(self)
-        if (r == None):
-            self.redis = redis.StrictRedis(
-                host='127.0.0.1', port=6379, db=0)
-        else:
-            self.redis = r
+        self.redis = RedisAccess.connection(r)
         self.pubsub = self.redis.pubsub()
-        self.pubsub.subscribe(channels.value)
+        self.pubsub.subscribe(channels)
         self.callback = callback
 
     def get_redis(self):
@@ -52,7 +48,7 @@ class RedisPublisher:
 
     def publish(self, data):
         package = json.dumps(data)
-        self.redis.publish(self.channels.value[0], package)
+        self.redis.publish(self.channels[0], package)
 
     def killme(self):
         self.redis.publish(self.channels[0], 'KILL')

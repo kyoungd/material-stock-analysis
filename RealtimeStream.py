@@ -1,14 +1,13 @@
 import logging
-
-import alpaca_trade_api as alpaca
-from alpaca_trade_api.stream import Stream
-from alpaca_trade_api.common import URL
-from redistimeseries.client import Client
 from redisTSCreateTable import CreateRedisStockTimeSeriesKeys
-from alpaca_trade_api.rest import REST
-from redisTSBars import RealTimeBars
-from redisUtil import AlpacaAccess, KeyName
+from redisUtil import AlpacaAccess, AlpacaStreamAccess
 from redisPubsub import StreamBarsPublisher, StreamBarsSubscriber, ThreeBarScoreSubscriber
+# import alpaca_trade_api as alpaca
+# from alpaca_trade_api.stream import Stream
+# from alpaca_trade_api.common import URL
+# from redistimeseries.client import Client
+# from alpaca_trade_api.rest import REST
+# from redisTSBars import RealTimeBars
 
 
 class RealTimeStream:
@@ -42,11 +41,12 @@ class RealTimeStream:
 
     def run(self):
         logging.basicConfig(level=logging.INFO)
-        feed = 'sip'  # <- replace to SIP if you have PRO subscription
-        stream = Stream(AlpacaAccess.ALPACA_API_KEY,
-                        AlpacaAccess.ALPACA_SECRET_KEY,
-                        base_url=URL(AlpacaAccess.ALPACA_WS),
-                        data_feed=feed)
+        stream = AlpacaStreamAccess.Connection()
+        # feed = 'sip'  # <- replace to SIP if you have PRO subscription
+        # stream = Stream(AlpacaAccess.ALPACA_API_KEY,
+        #                 AlpacaAccess.ALPACA_SECRET_KEY,
+        #                 base_url=URL(AlpacaAccess.ALPACA_WS),
+        #                 data_feed=feed)
         # stream.subscribe_trade_updates(print_trade_update)
         # stream.subscribe_trades(print_trade, 'AAPL')
         # stream.subscribe_quotes(print_quote, 'IBM')

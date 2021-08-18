@@ -1,4 +1,4 @@
-from redisUtil import RedisTimeFrame
+from redisUtil import RedisTimeFrame, TimeSeriesAccess
 from redisTSBars import RealTimeBars
 from redisHash import ThreeBarPlayStack
 import json
@@ -57,6 +57,7 @@ class StudyThreeBarsCandidates:
             self.stack = ThreeBarPlayStack()
         else:
             self.stack = stack
+        self.rtb = RealTimeBars()
         self.store = []
 
     def _candidate(self, symbol, timeframe, getPriceData):
@@ -69,13 +70,12 @@ class StudyThreeBarsCandidates:
 
     def run(self, keys=None, getPriceData=None):
         if (keys == None):
-            rtb = RealTimeBars()
-            keys = rtb.all_keys()
+            keys = self.rtb.all_keys()
         if (getPriceData == None):
             getPriceData = self.rtb.redis_get_data
         for symbol in keys:
-            self._candidate(symbol, RedisTimeFrame.MIN5.value, getPriceData)
-            self._candidate(symbol, RedisTimeFrame.MIN2.value, getPriceData)
+            self._candidate(symbol, RedisTimeFrame.MIN5, getPriceData)
+            self._candidate(symbol, RedisTimeFrame.MIN2, getPriceData)
         for stock in self.store:
             self.stack.add(stock['symbol'], stock)
 
@@ -96,3 +96,6 @@ if __name__ == "__main__":
     keys = ['AAPL']
     app = StudyThreeBarsCandidates()
     app.run(keys, testGetPriceData)
+    # keys = TimeSeriesAccess.RealTimeSymbols()
+    # app = StudyThreeBarsCandidates()
+    # app.run(keys)

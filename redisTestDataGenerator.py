@@ -1,25 +1,13 @@
-import logging
 
-import alpaca_trade_api as alpaca
-from alpaca_trade_api.stream import Stream
-from alpaca_trade_api.common import URL
 from redistimeseries.client import Client
 from redisTSCreateTable import CreateRedisStockTimeSeriesKeys
-from alpaca_trade_api.rest import REST
 from redisTSBars import RealTimeBars
-from redisUtil import RedisTimeFrame, SetInterval, TimeStamp
-import random
+from redisUtil import SetInterval, TimeStamp, TimeSeriesAccess
 from datetime import datetime
 import time
 
-ALPACA_API_KEY = 'AKAV2Z5H0NJNXYF7K24D'
-ALPACA_SECRET_KEY = '262cAEeIRrL1KEZYKSTjZA79tj25XWrMtvz0Bezu'
-ALPACA_API_URL = 'https://api.alpaca.markets'
-
-
-rts = Client(host='127.0.0.1', port=6379)
-api = alpaca.REST(
-    ALPACA_API_KEY, ALPACA_SECRET_KEY, ALPACA_API_URL)
+rts = TimeSeriesAccess.connection()
+rtb = RealTimeBars()
 
 # rtb = RealTimeBars()
 # data = rtb.redis_get_data(rts, api, 'FANG', RedisTimeFrame.MIN5)
@@ -86,7 +74,7 @@ def run_test():
     ts = TimeStamp.now()
     bar = NextData.getone()
     bar['timestamp'] = ts
-    RealTimeBars.redis_add_bar(rts, data=bar)
+    rtb.redis_add_bar(bar)
 
 
 if __name__ == "__main__":
